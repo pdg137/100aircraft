@@ -1,0 +1,16 @@
+{{Infobox Aircraft Type
+  |type = heavy night bomber
+  |manufacturer = Handley Page Aircraft
+  |designer = [[George Rudolph Volkert]]
+  |first flight = 12 June 1930
+  |introduced = 1934
+  |retired = 1941<ref name="Thetford AeroII p65"/>
+  |status = <!--in most cases, this field is redundant; use it sparingly-->
+  |primary user = [[Royal Air Force]]<!--please list only one, and don't use those tiny flags as they limit horizontal space-->
+  |more users = <!--up to three more. please separate with <br/>.-->
+  |produced = 1933 - 1936<!--years in production, e.g. 1970-1999, if still in active use but no longer built-->
+  |number built = 125
+  |unit cost = 
+  |developed from = <!-- the aircraft which formed the basis for the topic type -->
+  |variants with their own articles = <!-- variants OF the topic type -->
+}}

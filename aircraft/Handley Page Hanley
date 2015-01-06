@@ -1,0 +1,18 @@
+{{Infobox Aircraft Type
+  |type = [[Torpedo bomber]]
+  |manufacturer = [[Handley Page]]
+|national origin =[[United Kingdom]]
+  |designer = <!--only appropriate for individuals, not for project leaders or a company or corporation-->
+  |first flight = 3 January 1922
+  |introduced = <!--date the aircraft entered or will enter military or revenue service-->
+  |introduction= <!--date the aircraft will enter military or revenue service, if the aircraft is still in development -->
+  |retired = <!--date the aircraft left military or revenue service. If vague or multiples, it probably should be skipped-->
+  |status = Prototype<!--in most cases, this field is redundant; use it sparingly-->
+  |primary user = <!--please list only one, and don't use those tiny flags as they limit horizontal space-->
+  |more users = <!--limited to three "more users" total. please separate with <br/>-->
+  |produced = <!--years in production, e.g. 1970-1999, if still in active use but no longer built-->
+  |number built = 3
+  |unit cost = 
+  |developed from = <!-- the aircraft which formed the basis for the topic type -->
+  |variants with their own articles = [[Handley Page Hendon]]<!-- variants OF the topic type -->
+}}

@@ -1,0 +1,19 @@
+{{Infobox Aircraft Type
+  |type = [[Unmanned combat air vehicle]]
+  |national origin = [[United States]]
+  |manufacturer = [[Northrop Grumman]]
+  |designer = <!--only appropriate for single designers, not project leaders-->
+  |first flight = 4 February 2011
+  |introduction = <!--date the aircraft entered or will enter military or revenue service-->
+  |retired = <!--date the aircraft left military or revenue service. If vague or multiples, it probably should be skipped-->
+  |status = <!--in most cases, this field is redundant; use it sparingly-->
+  |primary user = [[United States Navy]]
+  |more users = <!--limited to three "more users" total; please separate with <br/>-->
+  |produced = 
+  |number built = 2
+  |program cost= US$813 million<ref name=MoneyMoney/>
+  |unit cost = <!-- incremental or flyaway cost for military aircraft or retail price for commercial aircraft. -->
+  |developed from = [[Northrop Grumman X-47A Pegasus|X-47A Pegasus]] <!-- the aircraft which formed the basis for the topic type -->
+  |variants with their own articles = <!-- variants OF the topic type -->
+  |developed into = [[Northrop Grumman X-47C|X-47C]] UCLASS
+}}

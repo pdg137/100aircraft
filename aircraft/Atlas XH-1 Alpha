@@ -1,0 +1,16 @@
+{{Infobox Aircraft Type
+  |type = Prototype
+  |manufacturer = [[Atlas Aircraft Corporation|Atlas Aviation]]<br />[[Denel]]
+  |designer = <!--only appropriate for single designers, not project leaders-->
+  |first flight = 3 February 1985
+  |introduced = <!--date the aircraft entered military or revenue service-->
+  |retired = <!--date the aircraft left military or revenue service. if vague or multiples, it probably should be skipped-->
+  |status = Retired
+  |primary user = <!--please list only one, and don't use those tiny flags as they limit horizontal space-->
+  |more users = <!--up to three more. please separate with <br/>.-->
+  |produced = <!--years in production, e.g. 1970-1999, if still in active use but no longer built-->
+  |number built = 1
+  |unit cost = 
+  |developed from = [[Aérospatiale Alouette III]] <!-- the aircraft which formed the basis for the topic type -->
+  |variants with their own articles = <!-- variants OF the topic type -->
+}}

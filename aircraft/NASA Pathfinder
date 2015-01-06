@@ -1,0 +1,18 @@
+{{Infobox Aircraft Type
+ |type = Remote controlled UAV
+ |manufacturer = [[AeroVironment]]
+ |designer = <!--only appropriate for single designers, not project leaders-->
+ |first flight = <!--if it hasn't happened, leave it out!-->
+ |introduction = <!--date the aircraft entered or will enter military or revenue service-->
+ |retired = <!--date the aircraft left military or revenue service. If vague or multiples, it probably should be skipped-->
+ |status = <!--in most cases, this field is redundant; use it sparingly-->
+ |primary user = [[NASA ERAST Program]]
+ |more users = <!--limited to three "more users" total; please separate with <br/>-->
+ |produced = <!--years in production, e.g. 1970-1999, if still in active use but no longer built-->
+ |number built = 1
+ |program cost= <!-- total program cost. -->
+ |unit cost = <!-- incremental or flyaway cost for military aircraft or retail price for commercial aircraft. -->
+ |developed from = 
+ |variants with their own articles = 
+ |developed into = [[NASA Centurion]]<br>[[NASA Helios]]
+}}

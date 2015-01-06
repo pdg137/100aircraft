@@ -1,0 +1,16 @@
+{{Infobox aircraft type
+  |type = [[Business jet]]
+  |manufacturer = [[Bombardier Aerospace]]
+  |designer = <!--only appropriate for single designers, not project leaders-->
+  |first flight =10 October 1990
+  |introduced = January 1993
+  |retired = <!--date the aircraft left military or revenue service. if vague or multiples, it probably should be skipped-->
+  |status = In Service <!--in most cases, this field is redundant; use it sparingly -->
+  |primary user = <!--please list only one, and don't use those tiny flags as they limit horizontal space-->
+  |more users = <!--limited to three "more users" total. please separate with <br/>-->
+  |produced = 1991-2012 ("production pause")
+  |number built= 400 {{as of|2012|02|lc=on}}<ref>{{cite web |url=http://www.bombardier.com/en/aerospace/media-centre/press-releases/details?docID=0901260d801f0521 |title=400th Learjet 60 XR Aircraft Enters Service with Cinépolis |date=2012-02-29}}</ref>
+  |unit cost = [[US$|$]]13.3 million
+  |developed from = [[Learjet 55]]
+  |variants with their own articles = <!-- variants OF the topic type -->
+}}

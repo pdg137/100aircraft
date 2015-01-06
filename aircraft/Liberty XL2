@@ -1,0 +1,18 @@
+{{Infobox Aircraft Type
+ |type= Personal use and [[trainer (aircraft)|training aircraft]]
+ |national origin = USA<!-- Use the main nation (ie. UK), not constituent country (England); don't use "EU". List collaborative programs of only 2 or 3 nations; for more than 3, use "Multi-national:. -->
+ |manufacturer = [[Liberty Aerospace]]
+ |designer= Ivan Shaw<!--Only appropriate for single designers, not project leaders-->
+ |first flight= <!--If this hasn't happened, skip this field!-->
+ |introduction= <!--Date the aircraft entered or will enter military or revenue service-->
+ |retired= <!--Date the aircraft left service. If vague or more than a few dates, skip this -->
+ |status= <!--In most cases, redundant; use sparingly-->
+ |primary user= <!-- list only one user; for military aircraft, this is a nation or a service arm. Please DON'T add those tiny flags, as they limit horizontal space. -->
+ |more users= <!--Limited to three in total; separate using <br> -->
+ |produced= <!--Years in production (eg. 1970-1999) if still in active use but no longer built -->
+ |number built= 132 (October 2012)<ref name="LAA05Oct12" />
+ |program cost= <!--Total program cost-->
+ |unit cost= [[United States Dollar|USD]]$179,000 (Basic VFR version, April 2008)<ref name="XL2Pricing">{{cite web|url = http://www.libertyaircraft.com/airplane-liberty-xl2/11-pricing.php|title = LIBERTY XL2 Aircraft & Accessories Price List|accessdate = 2008-08-17|last = [[Liberty Aerospace]]|authorlink = |date=April 2008}}</ref><!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
+ |developed from= [[Europa XS]]<!--The aircraft which formed the basis for this aircraft-->
+ |variants with their own articles = <!--Variants OF this aircraft-->
+}}
