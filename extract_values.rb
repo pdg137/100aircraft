@@ -15,6 +15,8 @@ Dir.glob('*').each do |aircraft|
     infobox =~ /\A.*\|\s*unit cost= *([^\n]*)/m # get the last match
     cost_text = $1 || "300000" # 300k is a safe minimum guess
 
+    cost_text.gsub %r(<ref>[^<]+</ref>), ''
+
     cost = case cost_text
            when /\A<!--Incremental/
              # nothing
