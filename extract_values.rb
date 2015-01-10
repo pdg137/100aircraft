@@ -9,10 +9,10 @@ Dir.chdir('aircraft')
 Dir.glob('*').each do |aircraft|
   infobox = File.read aircraft
 
-  if infobox =~ /\|\s*number built= *(.*)/
+  if infobox =~ /\|\s*number built\s*=\s*(.*)/
     number_built_text = $1
 
-    infobox =~ /\A.*\|\s*unit cost= *([^\n]*)/m # get the last match
+    infobox =~ /\A.*\|\s*unit cost\s*=\s*([^\n]*)/m # get the last match
     cost_text = $1 || "300000" # 300k is a safe minimum guess
 
     cost_text.gsub %r(<ref>[^<]+</ref>), ''
@@ -23,6 +23,8 @@ Dir.glob('*').each do |aircraft|
              300000
            when /.*€([0-9,.]+)m/
              ($1.to_f * 1.22 * 1e6).round # Euro exchange rate
+           when /.*USD\|([0-9,.]+\s+million)/
+             ($1.sub(',','').to_f * 1e6).round
            when /.*USD\|([0-9,.]+)/
              ($1.sub(',','').to_f).round
            when /.*(?<![.\d])([\d,.]+) million/
