@@ -1,0 +1,1 @@
+"Ecuatoriana Boeing 707-321C Hoppe" by Perry Hoppe - http://www.airliners.net/photo/Ecuatoriana/Boeing-707-321C/2056193/L/. Licensed under GFDL 1.2 via Wikimedia Commons - https://commons.wikimedia.org/wiki/File:Ecuatoriana_Boeing_707-321C_Hoppe.jpg#mediaviewer/File:Ecuatoriana_Boeing_707-321C_Hoppe.jpg
