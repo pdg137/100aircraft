@@ -1,0 +1,18 @@
+{{Infobox Aircraft Type
+  |type = Runway independent tactical reconnaissance UAV
+  |manufacturer = [[Arcturus-UAV, LLC]]
+ 
+  |first flight = Jan 28th, 2009 Edwards Air Force Base<!--if it hasn't happened, leave it out!-->
+  |introduction = 2009<!--date the aircraft entered or will enter military or revenue service-->
+  |retired = <!--date the aircraft left military or revenue service. If vague or multiples, it probably should be skipped-->
+  |status = <!--in most cases, this field is redundant; use it sparingly -->
+  |primary user = United States Navy<!--please list only one user – for military aircraft, the user is a nation or a service arm. 
+                  Do NOT add those tiny flags as they limit horizontal space.-->
+  |more users = <!--limited to three "more users" total; please separate with <br/>-->
+  |produced = <!--years in production, e.g. 1970–1999, if still in active use but no longer built-->
+  |number built = 20 + Delivered/160 Planned
+  |program cost= <!-- total program cost. -->
+  |unit cost = <!-- incremental or flyaway cost for military aircraft or retail price for commercial aircraft. -->
+  |developed from = <!-- the aircraft which formed the basis for the topic type -->
+  |variants with their own articles = <!-- variants OF the topic type -->
+}}

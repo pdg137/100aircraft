@@ -1,0 +1,17 @@
+{{Infobox Aircraft Type
+  |type = Light tourer
+  |manufacturer = British Klemm/[[British Aircraft Manufacturing]]
+  |designer = <!--only appropriate for individuals, not for project leaders or a company or corporation-->
+  |first flight = 1933 
+  |introduced = <!--date the aircraft entered or will enter military or revenue service-->
+  |introduction= <!--date the aircraft will enter military or revenue service, if the aircraft is still in development -->
+  |retired = <!--date the aircraft left military or revenue service. If vague or multiples, it probably should be skipped-->
+  |status = <!--in most cases, this field is redundant; use it sparingly-->
+  |primary user = <!--please list only one, and don't use those tiny flags as they limit horizontal space-->
+  |more users = <!--limited to three "more users" total. please separate with <br/>-->
+  |produced = <!--years in production, e.g. 1970-1999, if still in active use but no longer built-->
+  |number built = 135
+  |unit cost = 
+  |developed from = [[Klemm L.25]] 
+  |variants with their own articles = <!-- variants OF the topic type -->
+}}

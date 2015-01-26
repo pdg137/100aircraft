@@ -1,0 +1,16 @@
+{{Infobox Aircraft Type
+  |type = Airliner
+  |manufacturer = [[Airco]]
+  |designer = [[Geoffrey de Havilland]] 
+  |first flight = 8 April 1920
+  |introduced = 1920
+  |retired = 1923<!--date the aircraft left military or revenue service. If vague or multiples, it probably should be skipped-->
+  |status = <!--in most cases, this field is redundant; use it sparingly-->
+  |primary user = [[Aircraft Transport and Travel]] 
+  |more users = [[Daimler Airway|Daimler Hire Ltd]]<br />[[Instone Air Line]]<!--limited to three "more users" total. please separate with <br/>-->
+  |produced = 1919–1921<!--years in production, e.g. 1970-1999, if still in active use but no longer built-->
+  |number built = 6
+  |unit cost = 
+  |developed from = <!-- the aircraft which formed the basis for the topic type -->
+  |variants with their own articles = <!-- variants OF the topic type -->
+}}

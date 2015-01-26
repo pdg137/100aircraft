@@ -1,0 +1,3 @@
+list_of_aircraft.txt: list_of_aircraft_raw.txt
+	./parse_list.rb > list_of_aircraft.txt
+	
