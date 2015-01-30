@@ -1,0 +1,16 @@
+{{Infobox aircraft type
+  |type = Civil utility aircraft
+  |manufacturer = [[Cirrus Aircraft]]
+  |designer = <!--only appropriate for single designers, not project leaders-->
+  |first flight = <!--if it hasn't happened, leave it out!-->
+  |introduction = <!--date the aircraft entered or will enter military or revenue service-->
+  |retired = <!--date the aircraft left military or revenue service. If vague or multiples, it probably should be skipped-->
+  |status = <!--in most cases, this field is redundant; use it sparingly-->
+  |primary user = <!--please list only one user – for military aircraft, the user is a nation or a service arm. Do NOT add those tiny flags as they limit horizontal space.-->
+  |more users = <!--limited to three "more users" total; please separate with <br/>-->
+  |produced = 2001–present<!--years in production, e.g. 1970-1999, if still in active use but no longer built-->
+  |number built = 4365 through 2013<ref>{{cite journal| url=http://www.gama.aero/files/GAMA%202013%20Databook-Updated-LowRes.pdf|title=2013 General Aviation Statistical Databook & Industry Outlook|author=General Aviation Manufacturers Association|date=2014|accessdate=Jan 27, 2015}}</ref>
+  |unit cost = [[United States dollar|US$]]499,900 (base price: 2015 SR22)<ref name="2015SR22DomesticPricelist">{{cite web|url=http://cirrusaircraft.box.com/shared/static/yp6lgnicc0xh7ue2o882.pdf/2015SR22DomesticPricelist.pdf|title=SR22 Domestic Price List|accessdate=2014-12-23|last=[[Cirrus Aircraft]]|year = 2015}}</ref><br />
+[[United States dollar|US$]]599,900 (base price: 2015 SR22T)<ref name="2015SR22TDomesticPricelist">{{cite web|url=http://cirrusaircraft.box.com/shared/static/1cysjet6b4nsveewnxq4.pdf|title=SR22T Domestic Price List|accessdate=2014-12-23|last=[[Cirrus Aircraft]]|year = 2015}}</ref>
+  |variants with their own articles = <!-- variants OF the topic type -->
+}}

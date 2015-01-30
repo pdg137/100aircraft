@@ -17,6 +17,8 @@ def known_cost(aircraft)
     30e6 # 25e6 and 33e6 given on aircraftcompare.com
   when 'Dassault Falcon 90'
     35e6 # 34.5-39 on aircraftcompare.com
+  when 'Ilyushin Il-76'
+    50e6 # http://www.defenseindustrydaily.com/china-to-buy-38-il76-heavy-transports-il78-tankers-01180/
   else
     nil # 300k is a safe minimum guess
   end
@@ -33,7 +35,10 @@ Dir.glob('*').each do |aircraft|
 
     cost_text = $1 || ''
 
-    cost_text.gsub %r(<ref>[^<]+</ref>), ''
+    cost_text.gsub! %r(<ref>[^<]+</ref>), ''
+    cost_text.gsub! /&nbsp;/, ' '
+    cost_text.gsub! /\(€(\d)+\)/, ''
+    cost_text.gsub! /\s+/, ' '
 
     cost = known_cost(aircraft) ||
       case cost_text
@@ -41,8 +46,10 @@ Dir.glob('*').each do |aircraft|
         0
       when /.*€([0-9,.]+)m/
         ($1.to_f * 1.22 * 1e6).round # Euro exchange rate
-      when /.*USD\|([0-9,.]+\s+million)/
-        ($1.gsub(',','').to_f * 1e6).round
+      when /.*US(D|\$)\|?([0-9,.]+(\s|&nbsp;)+million)/
+        ($2.gsub(',','').to_f * 1e6).round
+      when /.*US\s*\$\s*([0-9,.]+)-([0-9,.]+) million/
+        ($2.gsub(',','').to_f * 1e6).round
       when /.*US\s*\$([0-9,.]+)/
         ($1.gsub(',','').to_f).round
       when /.*USD\|([0-9,.]+)/
