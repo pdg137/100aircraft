@@ -1,0 +1,178 @@
+- !ruby/object:Aircraft
+  name: Boeing 707
+  length_ft: 152
+  picture: Ecuatoriana_Boeing_707-321C_Hoppe.png
+  direction: right
+  pitch: 10
+  yaw: 10
+  description: >
+    The Boeing 707 is a mid-size, long-range, narrow-body four-engine
+    jet airliner built by Boeing Commercial Airplanes from 1958 to
+    1979.
+
+- !ruby/object:Aircraft
+  name: Boeing 727
+  length_ft: 153
+  picture: Boeing_727-2S7_Advanced_Champion_LAX.png
+  direction: left
+  pitch: 10
+  yaw: 20
+  description: >
+    The Boeing 727 is a mid-size narrow-body three-engine jet aircraft
+    built by Boeing Commercial Airplanes. It can carry 149 to 189
+    passengers and later models can fly up to 2,400 to 2,700 nautical
+    miles (4,400 to 5,000 km) nonstop. Intended for short and
+    medium-length flights, the 727 can use fairly short runways at
+    smaller airports.
+
+- !ruby/object:Aircraft
+  name: Boeing 737
+  picture: Jet_Airways_Boeing_737-800_Spijkers.png
+  direction: right
+  length_ft: 130
+  pitch: 7
+  yaw: 30
+  description: >
+    The Boeing 737 is a short- to medium-range twinjet narrow-body
+    airliner. Originally developed as a shorter, lower-cost
+    twin-engined airliner derived from Boeing's 707 and 727, the 737
+    has developed into a family of nine passenger models with a
+    capacity of 85 to 215 passengers. The 737 is Boeing's only
+    narrow-body airliner in production.
+
+- !ruby/object:Aircraft
+  name: Boeing 747
+  picture: Ba_b747-400_g-bnle_arp.png
+  direction: left
+  length_ft: 231
+  pitch: 20
+  yaw: 20
+  description: >
+    The Boeing 747 is a wide-body commercial airliner and cargo
+    transport aircraft, often referred to by its original nickname,
+    <em>Jumbo Jet</em>. Its iconic "hump" upper deck along the forward
+    part of the aircraft make it among the world's most recognizable
+    aircraft, and it was the first wide-body produced.
+
+- !ruby/object:Aircraft
+  name: Boeing 757
+  picture: Shanghai_Airlines_Boeing_757-26D_B-2876_Gu.png
+  direction: right
+  length_ft: 155
+  pitch: 15
+  yaw: 50
+  description: >
+    The Boeing 757 is a mid-size, narrow-body twin-engine jet airliner
+    that was designed and built by Boeing Commercial Airplanes. It is
+    the manufacturer's largest single-aisle passenger aircraft and was
+    produced from 1981 to 2004. The twinjet has a two-crew member
+    glass cockpit, turbofan engines, a conventional tail and, for
+    reduced aerodynamic drag, a supercritical wing design.
+
+- !ruby/object:Aircraft
+  name: Boeing 767
+  picture: Delta_Air_Lines_B767-332_N130DL.png
+  direction: left
+  length_ft: 180
+  pitch: 10
+  yaw: 15
+  description: >
+    The Boeing 767 is a mid- to large-size, long-range, wide-body
+    twin-engine jet airliner built by Boeing Commercial Airplanes. It
+    was the manufacturer's first wide-body twinjet and its first
+    airliner with a two-crew glass cockpit. The aircraft has two
+    turbofan engines, a conventional tail, and, for reduced
+    aerodynamic drag, a supercritical wing design.
+
+- !ruby/object:Aircraft
+  name: Boeing 777
+  picture: All_Nippon_Airways_B777-300ER_JA784A.png
+  direction: right
+  pitch: 15
+  yaw: 30
+  length_ft: 242
+  description: >
+    The Boeing 777 is a family of long-range wide-body twin-engine jet
+    airliners developed and manufactured by Boeing Commercial
+    Airplanes. It is the world's largest twinjet and has a typical
+    seating capacity for 314 to 451 passengers, with a range of 5,235
+    to 9,380 nautical miles (9,695 to 17,372 km). Commonly referred to
+    as the "Triple Seven",[3][4] its distinguishing features include
+    the largest-diameter turbofan engines of any aircraft, six wheels
+    on each main landing gear, a circular fuselage cross-section, and
+    a blade-shaped tail cone.
+
+- !ruby/object:Aircraft
+  name: Boeing 787
+  picture: Air_India_Boeing_787-8_Dreamliner_(VT-ANG)_departs_London_Heathrow_Airport_2ndJuly2014_arp.png
+  direction: left
+  pitch: 15
+  yaw: 15
+  length_ft: 186
+  description: >
+    The Boeing 787 Dreamliner is a long-range, mid-size wide-body,
+    twin-engine jet airliner developed by Boeing Commercial
+    Airplanes. Its variants seat 242 to 335 passengers in typical
+    3-class seating configurations. It is Boeing's most fuel-efficient
+    airliner and the world's first major airliner to use composite
+    materials as the primary material in the construction of its
+    airframe. The 787 was designed to be 20% more fuel efficient than
+    the 767 it is replacing. The 787 Dreamliner's distinguishing
+    features include mostly electrical flight systems, a four-panel
+    windshield, noise-reducing chevrons on its engine nacelles, and a
+    smoother nose contour.
+
+- !ruby/object:Aircraft
+  name: Airbus A320
+  wikipedia_name: Airbus A320 family
+  picture: Lufthansa_Airbus_A320-211_D-AIQT_01.png
+  pitch: 10
+  yaw: 40
+  direction: left
+  length_ft: 123
+  description: >
+    The Airbus A320 family consists of short- to medium-range,
+    narrow-body, commercial passenger jet airliners manufactured by
+    Airbus.
+
+- !ruby/object:Aircraft
+  name: Airbus A330
+  picture: Aeroflot_Airbus_A330_Kustov_edit.png
+  direction: right
+  pitch: 5
+  yaw: -10
+  length_ft: 193
+  description: >
+    The Airbus A330 is a medium wide-body twin-engine jet airliner
+    made by Airbus, a division of Airbus Group. Versions of the A330
+    have a range of 7,400 to 13,430 kilometres (4,000 to 7,250 nmi)
+    and can accommodate up to 335 passengers in a two-class layout or
+    carry 70 tonnes (150,000 lb) of cargo.
+
+- !ruby/object:Aircraft
+  name: Airbus A340
+  picture: D-AIGS_Lufthansa_Airbus_A340.png
+  direction: left
+  pitch: 7
+  yaw: 40
+  length_ft: 208
+  description: >
+    The Airbus A340 is a long-range four-engine wide-body commercial
+    passenger jet airliner. It was developed and produced by Airbus.
+
+- !ruby/object:Aircraft
+  name: Airbus A380
+  picture: Air_France_Airbus_A380-800_F-HPJB.png
+  direction: left
+  pitch: 5
+  yaw: 10
+  length_ft: 238
+  description: >
+    The Airbus A380 is a double-deck, wide-body, four-engine jet
+    airliner manufactured by Airbus. It is the world's largest
+    passenger airliner, and the airports at which it operates have
+    upgraded facilities to accommodate it. It was initially named
+    Airbus A3XX and designed to challenge Boeing's monopoly in the
+    large-aircraft market. The A380 made its first flight on 27 April
+    2005 and entered commercial service in October 2007 with Singapore
+    Airlines.
