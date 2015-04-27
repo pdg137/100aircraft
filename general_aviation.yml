@@ -1,0 +1,11 @@
+- !ruby/object:Aircraft
+  name: Cessna 172 Skyhawk
+  wikipedia_name: Cessna 172
+  picture: 1963-Cessna-172D.png
+  length_ft: 27
+  description: >
+    The Cessna 172 is one of the best-selling single engine airplanes
+    in the world. Over 43,000 of them have been made. It can carry 4
+    people including the pilot. From 1956 until 1967 it had a
+    Continental six-cylinder piston engine. Beginning in 1968, the 172
+    was powered by a Lycoming four-cylinder piston engine.

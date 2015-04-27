@@ -1,0 +1,42 @@
+- !ruby/object:Aircraft
+  name: Space Shuttle Orbiter
+  picture: Space_Shuttle_Atlantis_landing_at_KSC_following_STS-122_(crop).png
+  length_ft: 122
+  description: >
+    The Space Shuttle orbiter was the reusable spaceplane component of
+    the Space Shuttle program. Operated by NASA,[1] the U.S. space
+    agency, this vehicle could carry astronauts and payloads into low
+    Earth orbit, perform in-space operations, then re-enter the
+    atmosphere and land as a glider, returning its crew and any
+    on-board payload to the Earth.
+
+- !ruby/object:Aircraft
+  name: Lockheed SR-71 Blackbird
+  picture: SR-71_Takeoff_with_Afterburner_Showing_Shock_Diamonds_in_Exhaust.png
+  length_ft: 107
+  description: >
+    The Lockheed SR-71 "Blackbird" is a long-range, Mach 3+ strategic
+    reconnaissance aircraft that was operated by the United States Air
+    Force.[1] It was developed as a black project from the Lockheed
+    A-12 reconnaissance aircraft in the 1960s by Lockheed and its
+    Skunk Works division. Renowned American aerospace engineer
+    Clarence "Kelly" Johnson was responsible for many of the design's
+    innovative concepts.
+
+- !ruby/object:Aircraft
+  name: Northrop Grumman B-2 Spirit
+  picture: B-2_Spirit_original.png
+  length_ft: 69
+  width_ft: 172
+  pitch: -5
+  yaw: 90
+  description: >
+    The Northrop (later Northrop Grumman) B-2 Spirit, also known as
+    the Stealth Bomber, is an American strategic bomber, featuring low
+    observable stealth technology designed for penetrating dense
+    anti-aircraft defenses; it is able to deploy both conventional and
+    nuclear weapons. The bomber has a crew of two and can drop up to
+    eighty 500 lb (230 kg)-class JDAM GPS-guided bombs, or sixteen
+    2,400 lb (1,100 kg) B83 nuclear bombs. The B-2 is the only
+    aircraft that can carry large air-to-surface standoff weapons in a
+    stealth configuration.

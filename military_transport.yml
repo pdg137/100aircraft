@@ -1,0 +1,17 @@
+- !ruby/object:Aircraft
+  name: Lockheed C-130 Hercules
+  picture: Lockheed_C-130_Hercules.jpg
+  length_ft: 98
+  description: >
+    The Lockheed C-130 Hercules is a four-engine turboprop military
+    transport aircraft designed and built originally by Lockheed, now
+    Lockheed Martin. Capable of using unprepared runways for takeoffs
+    and landings, the C-130 was originally designed as a troop,
+    medical evacuation, and cargo transport aircraft. The versatile
+    airframe has found uses in a variety of other roles, including as
+    a gunship (AC-130), for airborne assault, search and rescue,
+    scientific research support, weather reconnaissance, aerial
+    refueling, maritime patrol, and aerial firefighting. It is now the
+    main tactical airlifter for many military forces worldwide. Over
+    40 models and variants of the Hercules serve with more than 60
+    nations.
