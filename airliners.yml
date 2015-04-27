@@ -176,3 +176,17 @@
     large-aircraft market. The A380 made its first flight on 27 April
     2005 and entered commercial service in October 2007 with Singapore
     Airlines.
+
+- !ruby/object:Aircraft
+  name: McDonnell Douglas MD-80
+  picture: Sas.md-81.oy-khn.arp.png
+  direction: left
+  length_ft: 147
+  pitch: 13
+  yaw: 0
+  description: >
+    The McDonnell Douglas MD-80 is a family of twin-engine, short- to
+    medium-range, single-aisle commercial jet airliners. The MD-80
+    series was lengthened and updated from the DC-9. The airliner
+    family can seat from 130 to 172 passengers depending on variant
+    and seating configuration.

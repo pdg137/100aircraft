@@ -28,3 +28,19 @@
     serving with 21 other air forces; 50 years after its original
     introduction it was still in active service, operated by the
     Lebanese Air Force until 2014.  </p> </div>
+
+- !ruby/object:Aircraft
+  name: Mitsubishi A6M Zero
+  picture: A6M3_Zero_N712Z_1.png
+  length_ft: 30
+  description: >
+    The Mitsubishi A6M Zero was a long-range fighter aircraft,
+    manufactured by Mitsubishi Heavy Industries, and operated by the
+    Imperial Japanese Navy from 1940 to 1945. The A6M was designated
+    as the Mitsubishi Navy Type 0 Carrier Fighter (零式艦上戦闘機), or
+    the Mitsubishi A6M Rei-sen. The A6M was usually referred to by its
+    pilots as the "Reisen" (zero fighter), "0" being the last digit of
+    the Imperial year 2600 (1940) when it entered service with the
+    Imperial Navy. The official Allied reporting name was "Zeke",
+    although the use of the name "Zero" was later commonly adopted by
+    the Allies as well.
