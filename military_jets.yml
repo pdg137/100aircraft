@@ -1,0 +1,30 @@
+- !ruby/object:Aircraft
+  name: F-16 Fighting Falcon
+  wikipedia_name: General Dynamics F-16 Fighting Falcon
+  picture: F-16_June_2008.png
+  length_ft: 49
+  pitch: -5
+  yaw: 45
+  description: >
+    The F-16 Fighting Falcon (also called the Viper) is an American
+    light fighter. It can carry air missiles, ground missiles, and
+    bombs. It first flew in 1974, and was introduced in service in
+    1978. It is still in the American air force and many other
+    airforces, and has been upgraded many times since it was first
+    used.
+
+- !ruby/object:Aircraft
+  name: Hawker Hunter
+  picture: Hawker_Hunter_F6A,_UK_-_Air_Force_AN2269812.png
+  length_ft: 46
+  description: >
+    The Hawker Hunter is a subsonic British jet aircraft developed in
+    the 1950s. The single-seat Hunter entered service as a
+    manoeuvrable fighter aircraft, and later operated in
+    fighter-bomber and reconnaissance roles in numerous
+    conflicts. Two-seat variants remained in use for training and
+    secondary roles with the Royal Air Force (RAF) and Royal Navy
+    until the early 1990s. The Hunter was also widely exported,
+    serving with 21 other air forces; 50 years after its original
+    introduction it was still in active service, operated by the
+    Lebanese Air Force until 2014.  </p> </div>

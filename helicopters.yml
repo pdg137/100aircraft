@@ -1,0 +1,25 @@
+- !ruby/object:Aircraft
+  name: Sikorsky UH-60 Black Hawk
+  length_ft: 64
+  picture: ROCAF_S-70C_Rescue_Operation_Demo_20110813.png
+  description: >
+    The Sikorsky UH-60 Black Hawk is a four-bladed, twin-engine,
+    medium-lift utility helicopter manufactured by Sikorsky
+    Aircraft. Sikorsky submitted the S-70 design for the United States
+    Army's Utility Tactical Transport Aircraft System (UTTAS)
+    competition in 1972. The Army designated the prototype as the
+    YUH-60A and selected the Black Hawk as the winner of the program
+    in 1976, after a fly-off competition with the Boeing Vertol
+    YUH-61.
+
+- !ruby/object:Aircraft
+  name: Bell 407
+  length_ft: 43
+  picture: PHI_Bell_407.png
+  description: >
+    The Bell 407 is a four-blade, single-engine, civil utility
+    helicopter; a derivative of the Bell 206L-4 LongRanger. The 407
+    uses the four-blade, soft-in-plane design rotor with composite hub
+    developed for the United States Army's OH-58D Kiowa Warrior
+    instead of the two-blade, semi-rigid, teetering, rotor of the
+    206L-4.

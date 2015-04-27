@@ -1,4 +1,8 @@
 class Format
+  def initialize(file)
+    @file = file
+  end
+
   def header
     <<END
 <html>
@@ -17,5 +21,15 @@ END
 </body>
 </html>
 END
+  end
+
+  def wrap
+    @file << header
+    yield(@file)
+    @file << footer
+  end
+
+  def section(name)
+    @file << "<h2>#{name}</h2>"
   end
 end

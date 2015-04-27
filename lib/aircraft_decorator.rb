@@ -2,12 +2,12 @@ class AircraftCollectionDecorator
   include Enumerable
   def initialize(collection)
     @collection = collection
-    @max_apparent_length_ft = collection.map(&:apparent_length_ft).max
+    @max_picture_width_ft = collection.map(&:picture_width_ft).max
   end
 
   def each
     @collection.each do |aircraft|
-      yield AircraftDecorator.new aircraft, max_apparent_length_ft: @max_apparent_length_ft
+      yield AircraftDecorator.new aircraft, max_picture_width_ft: @max_picture_width_ft
     end
   end
 
@@ -37,11 +37,11 @@ END
 end
 
 class AircraftDecorator
-  attr_reader :max_apparent_length_ft
+  attr_reader :max_picture_width_ft
 
   def initialize(aircraft, params)
     @aircraft = aircraft
-    @max_apparent_length_ft = params[:max_apparent_length_ft]
+    @max_picture_width_ft = params[:max_picture_width_ft]
   end
 
   def name
@@ -53,7 +53,7 @@ class AircraftDecorator
   end
 
   def width_percent
-    100 * @aircraft.apparent_length_ft / max_apparent_length_ft
+    100 * @aircraft.picture_width_ft / max_picture_width_ft
   end
 
   def picture

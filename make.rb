@@ -3,11 +3,24 @@ require_relative 'lib/format'
 require_relative 'lib/aircraft_decorator'
 require 'yaml'
 
-file = File.open('index.html', 'w')
+format = Format.new(File.open('index.html', 'w'))
 
-format = Format.new
-file << format.header
+format.wrap do |file|
+  format.section 'Airliners'
+  AircraftCollectionDecorator.new(YAML.load_file('airliners.yml')).render(file)
 
-AircraftCollectionDecorator.new(YAML.load_file('airliners.yml')).render(file)
+  format.section 'Helicopters'
+  AircraftCollectionDecorator.new(YAML.load_file('helicopters.yml')).render(file)
 
-file << format.footer
+  format.section 'General Aviation'
+  AircraftCollectionDecorator.new(YAML.load_file('general_aviation.yml')).render(file)
+
+  format.section 'Military Jets'
+  AircraftCollectionDecorator.new(YAML.load_file('military_jets.yml')).render(file)
+
+  format.section 'Military Transport'
+  AircraftCollectionDecorator.new(YAML.load_file('military_transport.yml')).render(file)
+
+  format.section 'Extreme Planes'
+  AircraftCollectionDecorator.new(YAML.load_file('extreme_planes.yml')).render(file)
+end
