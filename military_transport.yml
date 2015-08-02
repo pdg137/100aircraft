@@ -35,3 +35,19 @@
     missions, transporting troops and cargo throughout the world;
     additional roles include tactical airlift, medical evacuation and
     airdrop duties.
+
+- !ruby/object:Aircraft
+  name: Ilyushin Il-76
+  picture: Russian_Air_Force_Ilyushin_Il-76MD_Dvurekov-16.png
+  length_ft: 153
+  yaw: 20
+  pitch: 10
+  description: >
+    The Ilyushin Il-76 is a multi-purpose four-engine strategic
+    airlifter designed by the Ilyushin design bureau. It was first
+    planned as a commercial freighter in 1967, as a replacement for
+    the Antonov An-12. It was designed for delivering heavy machinery
+    to remote, poorly served areas of the USSR. Military versions of
+    the Il-76 have seen widespread use in Europe, Asia and Africa,
+    including use as an airborne refueling tanker or as a command
+    center.

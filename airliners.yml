@@ -190,3 +190,17 @@
     series was lengthened and updated from the DC-9. The airliner
     family can seat from 130 to 172 passengers depending on variant
     and seating configuration.
+
+- !ruby/object:Aircraft
+  name: Embraer E-Jet family
+  picture: EI-RDB_Embraer_175_Alitalia_BCN.png
+  direction: left
+  length_ft: 98
+  pitch: 3
+  yaw: 20
+  description: >
+    The Embraer E-Jet family is a family of narrow-body medium-range
+    twin-engine jet airliners produced by Brazilian company
+    Embraer. Entering production in 2002, the aircraft series has been
+    a commercial success. The aircraft is used by airlines around
+    the world.
