@@ -23,3 +23,20 @@
     developed for the United States Army's OH-58D Kiowa Warrior
     instead of the two-blade, semi-rigid, teetering, rotor of the
     206L-4.
+
+- !ruby/object:Aircraft
+  name: Boeing CH-47 Chinook
+  length_ft: 99
+  pitch: 7
+  yaw: 16
+  picture: 080301-F-2207D-394.png
+  description: >
+    The Boeing CH-47 Chinook is an American twin-engine, tandem rotor
+    heavy-lift helicopter. Its primary roles are troop movement,
+    artillery placement and battlefield resupply. It has a wide
+    loading ramp at the rear of the fuselage and three external-cargo
+    hooks. With a top speed of 170 knots (196 mph, 315 km/h) the
+    helicopter was faster than contemporary 1960s utility helicopters
+    and attack helicopters. The CH-47 is among the heaviest lifting
+    Western helicopters. Its name is from the Native American Chinook
+    people.
