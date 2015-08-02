@@ -5,8 +5,10 @@ class Format
 
   def header
     <<END
+<!DOCTYPE html>
 <html>
 <head>
+<meta charset='utf-8'>
 <link href='http://fonts.googleapis.com/css?family=Libre+Baskerville:400,700,400italic' rel='stylesheet' type='text/css'>
 <link rel="stylesheet" type="text/css" href="reset.css">
 <link rel="stylesheet" type="text/css" href="main.css">

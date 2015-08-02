@@ -2,6 +2,9 @@
   name: Lockheed C-130 Hercules
   picture: Lockheed_C-130_Hercules.jpg
   length_ft: 98
+  width_ft: 152 # really 132 but the picture has a margin
+  yaw: 45
+  pitch: -10
   description: >
     The Lockheed C-130 Hercules is a four-engine turboprop military
     transport aircraft designed and built originally by Lockheed, now
@@ -15,3 +18,20 @@
     main tactical airlifter for many military forces worldwide. Over
     40 models and variants of the Hercules serve with more than 60
     nations.
+
+- !ruby/object:Aircraft
+  name: Boeing C-17 Globemaster III
+  picture: Globemaster_0026.png
+  length_ft: 174
+  yaw: 20
+  pitch: 5
+  description: >
+    The Boeing C-17 Globemaster III is a large military transport
+    aircraft. It was developed for the United States Air Force (USAF)
+    from the 1980s to the early 1990s by McDonnell Douglas. The C-17
+    carries forward the name of two previous piston-engined military
+    cargo aircraft, the Douglas C-74 Globemaster and the Douglas C-124
+    Globemaster II. The C-17 commonly performs strategic airlift
+    missions, transporting troops and cargo throughout the world;
+    additional roles include tactical airlift, medical evacuation and
+    airdrop duties.
