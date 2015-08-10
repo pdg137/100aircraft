@@ -15,10 +15,10 @@ format.wrap do |file|
   format.section 'General Aviation'
   AircraftCollectionDecorator.new(YAML.load_file('general_aviation.yml')).render(file)
 
-  format.section 'Military Jets'
+  format.section 'Fighters'
   AircraftCollectionDecorator.new(YAML.load_file('military_jets.yml')).render(file)
 
-  format.section 'Military Transport'
+  format.section 'Heavy Military Planes'
   AircraftCollectionDecorator.new(YAML.load_file('military_transport.yml')).render(file)
 
   format.section 'Extreme Planes'

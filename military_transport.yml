@@ -51,3 +51,35 @@
     the Il-76 have seen widespread use in Europe, Asia and Africa,
     including use as an airborne refueling tanker or as a command
     center.
+
+- !ruby/object:Aircraft
+  name: Boeing B-52 Stratofortress
+  picture: 16590467432_3d18b13eac_o.png
+  length_ft: 159
+  width_ft: 185
+  yaw: 40
+  pitch: 15
+  description: >
+    The Boeing B-52 Stratofortress is a long-range, subsonic,
+    jet-powered strategic bomber. The B-52 was designed and built by
+    Boeing, which has continued to provide support and upgrades. It
+    has been operated by the United States Air Force (USAF) since the
+    1950s. The bomber is capable of carrying up to 70,000 pounds
+    (32,000 kg) of weapons.
+
+- !ruby/object:Aircraft
+  name: Boeing KC-135 Stratotanker
+  picture: 9114478155_7a5dbe5070_o.png
+  length_ft: 136
+  width_ft: 131
+  pitch: 20
+  yaw: 45
+  description: >
+    The Boeing KC-135 Stratotanker is a military aerial refueling
+    aircraft. It and the Boeing 707 airliner were developed from the
+    Boeing 367-80 prototype. The KC-135 was the US Air Force's first
+    jet-powered refueling tanker and replaced the KC-97
+    Stratofreighter. The KC-135 was initially tasked to refuel
+    strategic bombers, but was used extensively in the Vietnam War and
+    later conflicts such as Operation Desert Storm to extend the range
+    and endurance of US tactical fighters and bombers.

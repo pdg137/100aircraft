@@ -39,6 +39,10 @@ end
 class AircraftDecorator
   attr_reader :max_picture_width_ft
 
+  def url_encode(string)
+    string.gsub(/['"&<>]/) { |s| '%'+(s.unpack('H*')[0])}
+  end
+
   def initialize(aircraft, params)
     @aircraft = aircraft
     @max_picture_width_ft = params[:max_picture_width_ft]
@@ -57,7 +61,7 @@ class AircraftDecorator
   end
 
   def picture
-    "<img style='width: #{width_percent}%' src='pictures/#{@aircraft.wikipedia_name}/#{@aircraft.picture}'>"
+    "<img style='width: #{width_percent}%' src='pictures/#{url_encode @aircraft.wikipedia_name}/#{url_encode @aircraft.picture}'>"
   end
 
   def float_side

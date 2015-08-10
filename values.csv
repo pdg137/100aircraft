@@ -1,5 +1,5 @@
 Handley Page Jetstream,66,300000,0.01,|developed from = 
-Waco Custom Cabin series,350,300000,0.1,"1938 ZGC-8 (options unspecified) $10,495 (roughly $171,258.30 in 2012 dollars)<ref>[http://inflationdata.com/inflation/inflation_calculators/Inflation_Calculator.asp Inflation Calculator] at inflationdata.com, accessdate=23 May 2012</ref>"
+Waco Custom Cabin series,350,300000,0.1,"1938 ZGC-8 (options unspecified) $10,495 (roughly $171,258.30 in 2012 dollars)"
 Bisnovat SK-2,1,300000,0.0,""
 Boeing Model 64,1,300000,0.0,""
 Caproni Ca.2,9,300000,0.0,""
@@ -8,7 +8,7 @@ Letov Š-20,118,300000,0.03,""
 Kawanishi K-12 Sakura,2,300000,0.0,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
 Laird Solution,1,300000,0.0,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
 Liuchow Kwangsi Type 3,1,300000,0.0,""
-Boeing KC-135 Stratotanker,803,39600000,31.79,[[United States dollar|US$]]39.6&nbsp;million ([[Fiscal year|FY]]98 dollars)
+Boeing KC-135 Stratotanker,803,39600000,31.79,[[United States dollar|US$]]39.6 million ([[Fiscal year|FY]]98 dollars)
 General Atomics ALTUS,2,300000,0.0,""
 ICP Savannah,650,300000,0.19,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
 PWS-16,40,300000,0.01,""
@@ -61,7 +61,7 @@ Caproni Ca.90,1,300000,0.0,""
 Cessna 150,23949,300000,7.18,"[[United States dollar|US$]]12,000-25,000 (2007)"
 Agusta-Bell AB.102,1,300000,0.0,""
 Tupolev Tu-110,4,300000,0.0,""
-AgustaWestland AW139,770,12000000,9.24,"$12 million (2013)<ref>Huber, Mark. [http://www.ainonline.com/aviation-news/aviation-international-news/2013-10-02/russia-balks-35-aw139-order ""Russia Balks at 35-AW139 Order.""] ''AIN Online'', 2 October 2013.</ref>"
+AgustaWestland AW139,770,12000000,9.24,$12 million (2013)
 Fairey Primer,3,300000,0.0,""
 Meckler-Allen 1912 Biplane,1,300000,0.0,"$20,000 in 1912 <!--Incremental or flyaway cost for military or retail price for commercial aircraft-->"
 Friesley Falcon,1,300000,0.0,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
@@ -86,7 +86,7 @@ Lioré et Olivier 300,1,300000,0.0,""
 Lambach HL.II,2,300000,0.0,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
 Alliance P.1,1,300000,0.0,""
 Albatros Dr.I,1,300000,0.0,""
-Sukhoi Su-30,509,300000,0.15,"US$75&nbsp;million (Su-30MKI) in 2014<ref>[http://ajaishukla.blogspot.com.au/2014/04/air-force-to-get-full-sukhoi-30mki.html ""Air force to get full Sukhoi-30MKI fleet by 2019""]. Broadsword Blog, 22 April 2014.</ref>{{vs|date=April 2014}}"
+Sukhoi Su-30,509,75000000,38.17,US$75 million (Su-30MKI) in 2014{{vs|date=April 2014}}
 Thomas-Morse O-19,176,300000,0.05,""
 Ahrens AR 404,2,300000,0.0,""
 Nikitin NV-2,3,300000,0.0,""
@@ -105,7 +105,7 @@ Avro 547,2,300000,0.0,""
 Avia BH-10,20,300000,0.0,""
 CASA C-212 Aviocar,478,300000,0.14,|variants with their own articles=
 General Aircraft Croydon,1,300000,0.0,""
-Piaggio PD.808,24,400000,0.0,"$350,000-$400,000 in 1961<ref>{{cite journal|magazine=Flying Magazine|date=August 1961|page=24}}</ref>"
+Piaggio PD.808,24,400000,0.0,"$350,000-$400,000 in 1961"
 Aviastroitel AC-5M,35,300000,0.01,"[[US$]]33,000 (2003)"
 Meger Heli-Star,1,300000,0.0,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
 Felixstowe F.1,4,300000,0.0,|developed from = [[Curtiss Model H|Curtiss H-4]]
@@ -120,7 +120,7 @@ VL Pyörremyrsky,1,300000,0.0,|developed from=
 Wibault 9,1,300000,0.0,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
 Nelson Hummingbird PG-185B,7,300000,0.0,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
 K-class blimp,134,300000,0.04,""
-Bell UH-1Y Venom,54,300000,0.01,"US$26.2 million ([[flyaway cost]], FY2014)<ref>{{cite web |url=http://www.finance.hq.navy.mil/FMB/14pres/APN.HTM |title= Department of Defense Fiscal Year (FY) 2014 President's Budget Submission, Aircraft Procurement, Navy, Budget Activity 01-04 |publisher=Department of the Navy |page= V1-79 |date=April 2013}}</ref>"
+Bell UH-1Y Venom,54,26200000,1.41,"US$26.2 million ([[flyaway cost]], FY2014)"
 Fauvel AV.22,6,300000,0.0,""
 Potez 230,1,300000,0.0,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
 Shapley Kittiwake,2,300000,0.0,""
@@ -179,7 +179,7 @@ British Aircraft Double Eagle,3,300000,0.0,""
 Ryan X-13 Vertijet,2,300000,0.0,""
 PZL SM-4 Łątka,1,300000,0.0,| developed from= 
 Preceptor STOL King,6,300000,0.0,"[[US$]]25,000 (kit, 2011)"
-Ace Junior Ace,202,300000,0.06,approximately $1800 to build in 1971<ref>{{cite journal|magazine=Air Trails|date=Winter 1971|title=The true cost of building your own plane|author=Leo J. Kohn|page=63}}</ref>
+Ace Junior Ace,202,300000,0.06,approximately $1800 to build in 1971
 Radioplane Q-1,34,300000,0.01,""
 Goodyear Inflatoplane,12,300000,0.0,|variants with their own articles=
 CVV 3 Arcore,1,300000,0.0,| developed from= [[CVV 1 Pinguino]]
@@ -249,7 +249,7 @@ CVV-6 Canguro,36,300000,0.01,<!--Incremental or flyaway cost for military or ret
 RFB X-113,1,300000,0.0,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
 Schweizer SGS 1-26,700,300000,0.21,""
 Junkers A 32,2,300000,0.0,""
-Rhein Flugzeugbau RW 3 Multoplan,27,300000,0.0,"[[US$]]7096.52, $357 for wing extensions, in 1959 dollars.<ref>{{cite journal|magazine=Sport Aviation|date=March 1959}}</ref>  <!--Incremental or flyaway cost for military or retail price for commercial aircraft-->"
+Rhein Flugzeugbau RW 3 Multoplan,27,300000,0.0,"[[US$]]7096.52, $357 for wing extensions, in 1959 dollars. <!--Incremental or flyaway cost for military or retail price for commercial aircraft-->"
 Fairchild Hiller FH-1100,253,300000,0.07,""
 XtremeAir Sbach 342,44,300000,0.01,""
 Bernard H.V.41,1,300000,0.0,""
@@ -298,14 +298,14 @@ Breguet 26T,6,300000,0.0,""
 AIDC F-CK-1 Ching-kuo,130,30000000,3.9,"{{US$|25 & $30 million}}<ref name=""globalsecurity"">{{cite web|title=Ching-kuo (Hsiung Ying) Indigenous Defense Fighter|work=GlobalSecurity.org|url=http://www.globalsecurity.org/military/world/taiwan/idf.htm?P_AVPASS=PHDGBITAVPASSP|accessdate=2006-05-14|date=2005-04-27}}</ref>"
 LFG Roland D.VII,2,300000,0.0,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
 Avro 552,33,300000,0.0,""
-Stearman 4,41,300000,0.01,"$16,000 base for a model 4E in 1929<ref>{{cite journal|magazine=AAHS Journal|date=Summer 1982|title=Saga of a Square Tail Stearman|author=Thomas E Lowe, Kennith D Wilson}}</ref>"
+Stearman 4,41,300000,0.01,"$16,000 base for a model 4E in 1929"
 Breguet Bre.4,100,300000,0.03,""
 CANT Z.1007,660,300000,0.19,|variants with their own articles=
 Bellanca CH-300,35,300000,0.01,""
 Yokosuka K1Y,104,300000,0.03,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
 ANBO I,1,300000,0.0,""
 Hatz Classic,12,300000,0.0,"[[US$]]12,500 (kit, less engine, spars and covering, 1998)"
-Convair F-106 Delta Dart,342,300000,0.1,US$4.7 million<ref>{{harvnb|Knaack|1978}}</ref>
+Convair F-106 Delta Dart,342,4700000,1.6,US$4.7 million
 Fokker M 10,10,300000,0.0,""
 Farman F.180,3,300000,0.0,""
 Antonov An-12,1248,300000,0.37,|developed from= [[Antonov An-10]]
@@ -319,7 +319,7 @@ Dassault Falcon 10,226,300000,0.06,|developed from = [[Dassault Falcon 20]]
 Thulin K,17,300000,0.0,""
 Tipsy S.2,26,300000,0.0,""
 CANT 6,3,300000,0.0,""
-Antonov An-148,34,30000000,1.02,US$ 24-30 million for An-148<ref>{{cite web| url = http://www.lenta.ru/news/2010/04/02/an/|title= An-148 production to be reduced by 1/3 for 2010}}</ref>
+Antonov An-148,34,30000000,1.02,US$ 24-30 million for An-148
 Linke-Hofmann R.I,4,300000,0.0,""
 Kamov Ka-25,460,300000,0.13,|developed from = [[Kamov Ka-20]]
 PIK-15,7,300000,0.0,""
@@ -337,13 +337,13 @@ Hughes OH-6 Cayuse,1420,300000,0.42,"US$19,860 (1966)<ref name=""Holley_1997"">H
 Vought V-141,1,300000,0.0,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
 Daimler L11,1,300000,0.0,""
 Messerschmitt Me 209,4,300000,0.0,|variants with their own articles=
-Sikorsky MH-53,72,300000,0.02,MH-53J: US$40 million (2001)<ref name=USAF_fact_sht/>
+Sikorsky MH-53,72,40000000,2.88,MH-53J: US$40 million (2001)<ref name=USAF_fact_sht/>
 Ellison-Mahon Gweduck,1,300000,0.0,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
 Piper PA-34 Seneca,5000,799000,3.99,"[[United States Dollar|USD]]$799,000 (2009 base price)<ref name=""bcair""/>"
 Ruhrtaler Ru.3,1,300000,0.0,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
 McDonnell XHJH Whirlaway,1,300000,0.0,""
 Aichi F1A,2,300000,0.0,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
-Lockheed Martin X-56,1,300000,0.0,|developed from  = 
+Lockheed Martin X-56,1,300000,0.0,|developed from = 
 Akaflieg Stuttgart FS-28 Avispa,1,300000,0.0,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
 Storm 320E,70,300000,0.02,"US$19,420 (kit, 1998)"
 Mauboussin M.120,116,300000,0.03,""
@@ -354,7 +354,7 @@ Blériot-SPAD S.61,350,300000,0.1,""
 Armstrong Whitworth Wolf,6,300000,0.0,""
 Albatros L 84,5,300000,0.0,""
 Kawanishi K-11,2,300000,0.0,| developed from= 
-Bombardier CRJ200,1021,300000,0.3,US$24-39.7 million (2006)
+Bombardier CRJ200,1021,39700000,40.53,US$24-39.7 million (2006)
 Sopwith 1919 Schneider Cup Seaplane,1,300000,0.0,""
 Argus As 292,100,300000,0.03,|variants with their own articles = [[Argus Fernfeuer]]
 Lioré et Olivier LeO 7,39,300000,0.01,""
@@ -418,10 +418,10 @@ Lohner L,100,300000,0.03,""
 Indraéro Aéro 20,1,300000,0.0,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
 IAR 37,380,300000,0.11,""
 General Atomics GNAT,22,300000,0.0,""
-Lockheed Martin F-22 Raptor,195,300000,0.05,US$150&nbsp;million ([[flyaway cost]] for FY2009)<ref>{{Cite web |url= http://www.saffm.hq.af.mil/shared/media/document/AFD-100128-072.pdf |title= FY 2011 Budget Estimates |publisher= U.S. Air Force |date= February 2010 |pages= 1–15 |format= PDF}}.</ref>
+Lockheed Martin F-22 Raptor,195,150000000,29.25,US$150 million ([[flyaway cost]] for FY2009)
 Friedrichshafen FF.35,1,300000,0.0,""
 Beechcraft Starship,53,3900000,0.2,[[United States dollar|US$]] 3.9 million
-Eurocopter UH-72 Lakota,300,5900000,1.77,"[[US$]]5.9 million ([[flyaway cost]], FY2012)<ref>[http://asafm.army.mil/Documents/OfficeDocuments/Budget/BudgetMaterials/FY12/pforms//aircraft.pdf ""US Army aircraft"", FY2012 budget estimate], p. 43. US Army</ref>"
+Eurocopter UH-72 Lakota,300,5900000,1.77,"[[US$]]5.9 million ([[flyaway cost]], FY2012)"
 Latécoère 490,2,300000,0.0,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
 Macchi L.2,10,300000,0.0,""
 Roussel R-30,1,300000,0.0,""
@@ -459,7 +459,7 @@ Canadair CL-44,39,300000,0.01,|developed from = [[Bristol Britannia]]
 Sopwith Dragon,200,300000,0.06,""
 Chyeranovskii BICh-20,1,300000,0.0,""
 Boeing C-40 Clipper,19,70000000,1.33,[[United States dollar|US$]]70 million
-Boeing B-47 Stratojet,2032,1900000,3.86,"[[United States dollar|US$]]1.9&nbsp;million (B-47E)<ref>Knaack 1988, p. 142.</ref> equivalent to ${{Formatnum:{{Inflation|US|1.9|1947|r=1}}}}&nbsp;million in current value"
+Boeing B-47 Stratojet,2032,1900000,3.86,[[United States dollar|US$]]1.9 million (B-47E) equivalent to ${{Formatnum:{{Inflation|US|1.9|1947|r=1}}}} million in current value
 Grahame-White Type XV,135,300000,0.04,""
 RWD 18,1,300000,0.0,""
 Bird Wing Imperial,6,300000,0.0,$2495 Model 1 $5200 Imperial<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
@@ -524,7 +524,7 @@ CNA PM.1,1,300000,0.0,<!--Incremental or flyaway cost for military or retail pri
 Boisavia Anjou,1,300000,0.0,""
 Bolkhovitinov S,2,300000,0.0,""
 Arado Ar 80,3,300000,0.0,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
-Antonov An-124 Ruslan,55,300000,0.01,US$70–100&nbsp;million<ref>[http://www.casr.ca/id-antonov-costs.htm]{{dead link|date=June 2011}}</ref>
+Antonov An-124 Ruslan,55,300000,0.01,US$70–100 million
 Jabiru J230,100,300000,0.03,"[[US$]]43,900 (kit only, 2011)"
 MacDonald S-20,100,300000,0.03,""
 Crosby CR-4,1,300000,0.0,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
@@ -540,7 +540,7 @@ Handley Page Hampden,1430,300000,0.42,|variants with their own articles =
 Lockheed Martin F-35 Lightning II,150,300000,0.04,"F-35A: US$114M ([[low rate initial production]], full production in 2018 to be $85M)<ref name=f35costs>https://www.f35.com/about/fast-facts/cost</ref><ref name=f35engcosts>{{cite web|url=http://aviationweek.com/defense/f-35-deal-targets-unit-cost-below-100-million|title=F-35 Deal Targets Unit Cost Below $100 Million|publisher=}}</ref> <br/>F-35B: US$142M (low rate initial production)<ref name=""f35costs"" /><ref name=""f35engcosts"" /> <br/>F-35C: US$132M (low rate initial production)<ref name=""f35costs"" /><ref name=""f35engcosts"" />"
 Airdrome Eindecker E-III,21,300000,0.0,""
 Fokker D.IV,44,300000,0.01,""
-Canadair CC-109 Cosmopolitan,13,2000000,0.02,"CV540 (used) - $880,000 CL-66B (new) - $2,000,000 <ref>[http://www.rcaf.com/aircraft/transports/cosmo/index.php? ""CC-109 Cosmopolitan.""] ''RCAF.com''. Retrieved: 16 June 2010.</ref>"
+Canadair CC-109 Cosmopolitan,13,2000000,0.02,"CV540 (used) - $880,000 CL-66B (new) - $2,000,000 "
 TL Ultralight TL-22 Duo,50,300000,0.01,<!-- [[US$]] (1998) -->
 English Electric Ayr,2,300000,0.0,""
 Saunders Medina,1,300000,0.0,""
@@ -586,7 +586,7 @@ Kellett K-2,16,300000,0.0,""
 Bastianelli P.R.B.,1,300000,0.0,""
 Glasflügel 604,11,300000,0.0,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
 Royal Aircraft Factory R.E.1,2,300000,0.0,""
-Lockheed C-5 Galaxy,131,168000000,22.0,"C-5B: [[United States dollar|US$]]168 million (1987)<ref>Congressional Budget Office 1986, p. 47.</ref>"
+Lockheed C-5 Galaxy,131,168000000,22.0,C-5B: [[United States dollar|US$]]168 million (1987)
 Zmaj Fizir FN,206,300000,0.06,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
 Sikorsky S-36,6,300000,0.0,""
 BFW M.31,1,300000,0.0,""
@@ -608,7 +608,7 @@ Microturbo Microjet 200,4,300000,0.0,""
 Loose Special,1,300000,0.0,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
 Meyers OTW,104,300000,0.03,""
 Albatros L 73,4,300000,0.0,""
-Sukhoi Su-27,809,30000000,24.27,[[United States dollar|US$]]30&nbsp;million
+Sukhoi Su-27,809,30000000,24.27,[[United States dollar|US$]]30 million
 Dewoitine D.500 ,381,300000,0.11,|developed from=
 Dewoitine D.26,12,300000,0.0,""
 Aubert Cigale,35,300000,0.01,""
@@ -633,7 +633,7 @@ Boeing Model 203,7,300000,0.0,""
 Antonov An-2,18000,300000,5.4,|developed from=
 Yokosuka MXY5,12,300000,0.0,""
 Precision Tech Fergy,40,300000,0.01,"[[US$]]10,900 (2001)<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->"
-Bell OH-58 Kiowa,2200,300000,0.66,"OH-58D: US$4.9 million (1990)<ref name=""Jackson-1""/> <br/>OH-58D KW: US$6.7 million (1990)<ref name=""Jackson-1""/> <br/>KW retrofit: US$1.3 million (1990)<ref name=""Jackson-1""/>"
+Bell OH-58 Kiowa,2200,1300000,2.86,"OH-58D: US$4.9 million (1990)<ref name=""Jackson-1""/> <br/>OH-58D KW: US$6.7 million (1990)<ref name=""Jackson-1""/> <br/>KW retrofit: US$1.3 million (1990)<ref name=""Jackson-1""/>"
 Beardmore W.B.III,100,300000,0.03,""
 Durand Mk V,9,300000,0.0,""
 Nikitin MU-4,1,300000,0.0,""
@@ -658,12 +658,12 @@ Aviatik (Berg) D.II,13,300000,0.0,""
 Vickers E.F.B.1,1,300000,0.0,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
 Norman Thompson N.1B,1,300000,0.0,""
 ANBO VI,4,300000,0.0,""
-Wedell-Williams Model 45,1,300000,0.0,"est. US$15,000 in 1936<ref>Hirsch and Schultz 2001, p. 98.</ref>"
+Wedell-Williams Model 45,1,300000,0.0,"est. US$15,000 in 1936"
 Tupolev Tu-160,35,300000,0.01,|primary user= [[Russian Air Force]]
 Mauboussin Hémiptère,1,300000,0.0,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
 Short Mussel,2,300000,0.0,""
 Taylorcraft Ranch Wagon,38,300000,0.01,""
-Basler BT-67,58,4500000,0.26,"[[United States dollar|US$]]4.5 million, {{US$|6.5}} million {{as of|2012|lc=on}}.<ref>{{cite web | url=http://www.baslerturbo.com/faq.aspx | title=Eight FAQs | publisher=Basler Turbo Conversions, LLC | work=web site | accessdate=March 12, 2012}}</ref>"
+Basler BT-67,58,4500000,0.26,"[[United States dollar|US$]]4.5 million, {{US$|6.5}} million {{as of|2012|lc=on}}."
 SIAI-Marchetti S.211,60,300000,0.01,|developed from=
 Fisher FP-202 Koala,202,300000,0.06,""
 Cessna 310,6321,300000,1.89,"[[US$]]147,750 (normally aspirated version, 1978 price)<ref name=""P&P"">Plane and Pilot: ''1978 Aircraft Directory'', page 162. Werner & Werner Corp, Santa Monica CA, 1977. ISBN 0-918312-00-0</ref>"
@@ -687,7 +687,7 @@ Focke-Achgelis Fa 269,0,300000,0.0,""
 Comp Air 8,25,300000,0.0,"[[US$]]187,000 - 425,000 (2011 price, complete aircraft)<ref name=""KitplanesDec2011"" />"
 SNCAC NC.510,3,300000,0.0,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
 Giles G-200,12,300000,0.0,"[[US$]]98,650 (ready to fly, 1998)"
-Grumman C-2 Greyhound,58,300000,0.01,US$38.96 million<ref name=USN_fact_file>{{cite web |url=http://www.navy.mil/navydata/fact_display.asp?cid=1100&tid=100&ct=1 |title=Navy Fact File |date=17 February 2009 |publisher=Navy.mil |accessdate=10 September 2011}}</ref>
+Grumman C-2 Greyhound,58,38960000,2.25,US$38.96 million<ref name=USN_fact_file>{{cite web |url=http://www.navy.mil/navydata/fact_display.asp?cid=1100&tid=100&ct=1 |title=Navy Fact File |date=17 February 2009 |publisher=Navy.mil |accessdate=10 September 2011}}</ref>
 OKB-1 EF 131,2,300000,0.0,""
 Kawanishi K-200,0,300000,0.0,|primary user=[[Imperial Japanese Navy]] (Intended)
 Fokker F.11,7,300000,0.0,""
@@ -727,11 +727,11 @@ Willoughby Delta 8,1,300000,0.0,""
 Caproni Ca.124,1,300000,0.0,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
 Piper PA-29 Papoose,1,300000,0.0,""
 Bréguet Br 901 Mouette,36,300000,0.01,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
-General Dynamics–Grumman F-111B,7,8000000,0.05,"[[United States dollar|US$]]8 million<ref>[http://www.time.com/time/magazine/article/0,9171,840925,00.html ""Aircraft: Takeoff for the F-111""]. ''Time'', 19 May 1967.</ref>"
+General Dynamics–Grumman F-111B,7,8000000,0.05,[[United States dollar|US$]]8 million
 Huff-Daland XHB-1,1,300000,0.0,""
 Stits DS-1,1,300000,0.0,"$5,000 in 1984<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->"
 Kawanishi E7K,533,300000,0.15,|developed from=
-Boeing Vertol CH-46 Sea Knight,46,300000,0.01,US$6 million (1987)<ref>[http://www.aeronautics.ru/nws002/military_aircraft_prices.htm Military aircraft prices]{{dead link|date=April 2014}}</ref>
+Boeing Vertol CH-46 Sea Knight,46,6000000,0.27,US$6 million (1987)
 Aero A.104,2,300000,0.0,|variants with their own articles=
 Tipsy B,42,300000,0.01,""
 Watkinson Dingbat,1,300000,0.0,""
@@ -804,7 +804,7 @@ Letov Š-7,1,300000,0.0,<!--Incremental or flyaway cost for military or retail p
 Focke-Wulf Fw 200 Condor,276,300000,0.08,|variants with their own articles=
 Fokker F.V,1,300000,0.0,""
 Johansen CAJO 59,1,300000,0.0,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
-North American FJ-1 Fury,31,300000,0.0,|developed from =  
+North American FJ-1 Fury,31,300000,0.0,|developed from = 
 Schleicher ASK 14,66,300000,0.01,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
 Bisnovat SK-1,1,300000,0.0,""
 Landray GL.01,1,300000,0.0,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
@@ -867,7 +867,7 @@ CANT 10,18,300000,0.0,""
 Douglas DC-6,704,300000,0.21,|developed from= [[Douglas DC-4]] 
 Stinson L-5 Sentinel,3896,300000,1.16,|developed from= [[Stinson Voyager|Stinson YO-54]]
 Blue Yonder Twin Engine EZ Flyer,1,300000,0.0,""
-Boeing 757,1050,300000,0.31,757-200: US$65&nbsp;million (2002) <br>757-300: US$80&nbsp;million (2002)
+Boeing 757,1050,80000000,84.0,757-200: US$65 million (2002) <br>757-300: US$80 million (2002)
 FMA IA 50 Guaraní II,3,300000,0.0,|primary user = [[Argentine Air Force|Fuerza Aérea Argentina]]
 Beardmore W.B.1,1,300000,0.0,""
 Fleet 50,5,300000,0.0,""
@@ -877,13 +877,13 @@ Savoia-Marchetti S.72,7,300000,0.0,""
 Dornier Do 18,170,300000,0.05,|variants with their own articles=
 Yakovlev AIR-3,3,300000,0.0,""
 Morane-Saulnier MS.315,356,300000,0.1,""
-Boeing C-17 Globemaster III,250,300000,0.07,"US$218 million ([[flyaway cost]] for FY2007)<ref>[http://www.saffm.hq.af.mil/shared/media/document/AFD-080204-081.pdf ""FY 2009 Budget Estimates"", p. 2-1.] ''US Air Force'', February 2008.</ref>"
+Boeing C-17 Globemaster III,250,218000000,54.5,US$218 million ([[flyaway cost]] for FY2007)
 Yakovlev UT-1,1241,300000,0.37,""
-KAI T-50 Golden Eagle,82,300000,0.02,"T-50: US$21 million (2008)<ref name=Def_News>[http://www.defensenews.com/story.php?i=3693392 ""S. Korea To Tout T-50 Trainer to Singapore""]. ''Defense News'', 26 August 2008.</ref> <br>TA-50: US$25 million (2011)<ref name=avw/> <br>FA-50: US$30 million (2012)<ref name=fgfa-50>[http://www.flightglobal.com/news/articles/seoul-places-600m-order-for-20-fa-50s-366500/ Seoul places $600m order for 20 FA-50s]</ref>"
+KAI T-50 Golden Eagle,82,30000000,2.46,"T-50: US$21 million (2008)<ref name=Def_News>[http://www.defensenews.com/story.php?i=3693392 ""S. Korea To Tout T-50 Trainer to Singapore""]. ''Defense News'', 26 August 2008.</ref> <br>TA-50: US$25 million (2011)<ref name=avw/> <br>FA-50: US$30 million (2012)<ref name=fgfa-50>[http://www.flightglobal.com/news/articles/seoul-places-600m-order-for-20-fa-50s-366500/ Seoul places $600m order for 20 FA-50s]</ref>"
 Lohner E,40,300000,0.01,""
 Mitsubishi 1MF9,2,300000,0.0,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
 Abrams P-1 Explorer,1,300000,0.0,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
-Agusta A129 Mangusta,60,300000,0.01,US$22 million (International version){{fact|date=August 2013}}
+Agusta A129 Mangusta,60,22000000,1.32,US$22 million (International version){{fact|date=August 2013}}
 Sopwith Buffalo,2,300000,0.0,""
 Short SC.1,2,300000,0.0,|variants with their own articles=
 Fairchild 24,2232,300000,0.66,|developed from= 
@@ -904,7 +904,7 @@ F L S Z Der Kricket DK-1,7,300000,0.0,<!--Incremental or flyaway cost for milita
 Sud-Ouest Triton,5,300000,0.0,""
 Morane-Saulnier BB,94,300000,0.02,""
 Fletcher FD-25,13,300000,0.0,""
-Boeing CH-47 Chinook,1200,300000,0.36,"US$38.55 million (CH-47F, FY13)<ref>{{cite web |url=http://www.dod.gov/pubs/foi/logistics_material_readiness/acq_bud_fin/SARs/DEC%202011%20SAR/CH-47F%20-%20SAR%20-%2031%20DEC%202011.pdf |format=PDF |page=13 |title=CH-47F Selected Acquisition Report RCS: DD-A&T(Q&A)823-278 |date=31 December 2011 |publisher=US Department of Defense |accessdate=}}</ref>"
+Boeing CH-47 Chinook,1200,38550000,46.26,"US$38.55 million (CH-47F, FY13)"
 Quickie Free Enterprise,1,300000,0.0,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
 Anderson Greenwood AG-14,6,300000,0.0,""
 Gerner G II R,54,300000,0.01,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
@@ -912,13 +912,13 @@ Chyeranovskii BICh-14,1,300000,0.0,""
 Parks P-1,45,300000,0.01,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
 Gloster Goring,1,300000,0.0,""
 Bolkhovitinov DB-A,14,300000,0.0,""
-Avro Canada CF-105 Arrow,5,5000000,0.02,"[[Canadian dollar|C$]]3.5–5 million <br /> $28-$50 Million in 2014 Dollars <ref>http://www.bankofcanada.ca/rates/related/inflation-calculator/ </ref> <ref name = 'campagna111'>Campagna 1998, p.&nbsp;111.</ref>"
+Avro Canada CF-105 Arrow,5,5000000,0.02,"[[Canadian dollar|C$]]3.5–5 million <br /> $28-$50 Million in 2014 Dollars <ref name = 'campagna111'>Campagna 1998, p. 111.</ref>"
 Piccard Eureka,1,300000,0.0,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
 Let-Mont Piper UL,25,300000,0.0,"[[US$]]18,000 (finished aircraft, 1998)"
 Tupolev ANT-9,100,300000,0.03,""
 Blériot-SPAD S.33,41,300000,0.01,""
-LTV A-7 Corsair II,1569,2860000,4.48,{{US$|link=yes}}2.86&nbsp;million
-Bristol F.2 Fighter,5329,300000,1.59,"£1,350 (1918)<ref>Minus engine, instruments or guns</ref>"
+LTV A-7 Corsair II,1569,2860000,4.48,{{US$|link=yes}}2.86 million
+Bristol F.2 Fighter,5329,300000,1.59,"£1,350 (1918)"
 Yakovlev AIR-6,128,300000,0.03,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
 CASA C-101,166,300000,0.04,|developed from =
 American Airmotive NA-75,200,300000,0.06,""
@@ -935,7 +935,7 @@ Sukhoi Su-8,2,300000,0.0,|variants with their own articles=
 Piper Aerostar,1010,300000,0.3,""
 Starck AS-57,10,300000,0.0,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
 Nieuport-Delage NiD 48,3,300000,0.0,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
-Wittman Tailwind,350,300000,0.1,approximately $2285 to build in 1971<ref>{{cite journal|magazine=Air Trails|date=Winter 1971|title=The true cost of building your own plane|author=Leo J. Kohn|page=63}}</ref>
+Wittman Tailwind,350,300000,0.1,approximately $2285 to build in 1971
 Akaflieg Darmstadt D-36 Circe,2,300000,0.0,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
 Boeing P-29,4,300000,0.0,|developed from=[[Boeing P-26]]
 AEA White Wing,1,300000,0.0,|variants with their own articles=
@@ -981,7 +981,7 @@ Koolhoven F.K.30,1,300000,0.0,""
 FBA 19,10,300000,0.0,""
 Ikarus ŠM,42,300000,0.01,""
 Short Gurnard,2,300000,0.0,""
-Lockheed F-117 Nighthawk,64,300000,0.01,"[[United States dollar|US$]]42.6&nbsp;million ([[flyaway cost]]) <br/>US$111.2&nbsp;million (average cost)<ref name=""HAVE BLUE and the F-117A""/>"
+Lockheed F-117 Nighthawk,64,111200000,7.11,"[[United States dollar|US$]]42.6 million ([[flyaway cost]]) <br/>US$111.2 million (average cost)<ref name=""HAVE BLUE and the F-117A""/>"
 Saunders A.14,1,300000,0.0,""
 CANT Z.1010,1,300000,0.0,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
 Porterfield Collegiate,476,300000,0.14,""
@@ -1022,14 +1022,14 @@ Consolidated P2Y,78,300000,0.02,""
 Martin NBS-1,130,300000,0.03,"US$23,485 (1920)"
 Vickers Valetta,263,300000,0.07,|developed from=[[Vickers VC.1 Viking]]
 Luscombe 10,1,300000,0.0,""
-Sukhoi Su-24,1400,25000000,35.0,"[[United States dollar|US$]]24–25&nbsp;million in 1997<ref>[http://www.aeronautics.ru/nws002/military_aircraft_prices.htm ""Military aircraft prices.""] ''aeronautics.ru.'' Retrieved: 5 March 2011.</ref>"
+Sukhoi Su-24,1400,25000000,35.0,[[United States dollar|US$]]24–25 million in 1997
 Potez 35,1,300000,0.0,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
 Bede BD-8,1,300000,0.0,""
 Kyushu K11W,798,300000,0.23,""
 SAI KZ II,45,300000,0.01,""
 Sikorsky S-69,2,300000,0.0,|developed from =
 Ehroflug Coach II S,15,300000,0.0,"[[Euro|€]]36,000 (assembled, 2011)"
-Bölkow Bo 207,92,300000,0.02,"$13,700 in 1962 <ref>{{cite journal|magazine=Flying Magazine|date=May 1962|page=3}}</ref>"
+Bölkow Bo 207,92,300000,0.02,"$13,700 in 1962 "
 Fairey Fantôme,4,300000,0.0,""
 Aero A.304,19,300000,0.0,""
 Boeing YC-14,2,300000,0.0,|developed from = 
@@ -1089,7 +1089,7 @@ Fairchild C-123 Provider,307,300000,0.09,|developed from = [[Chase XCG-20]]
 NIAI LK-1,21,300000,0.0,""
 Gotha WD.3,1,300000,0.0,""
 LFU 205,1,300000,0.0,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
-McDonnell Douglas MD-80,1191,48500000,57.76,[[United States dollar|US$]]41.5–48.5&nbsp;million
+McDonnell Douglas MD-80,1191,48500000,57.76,[[United States dollar|US$]]41.5–48.5 million
 Ikarus Kurir,145,300000,0.04,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
 Sikorsky Cypher,2,300000,0.0,|developed from = 
 Dassault Étendard II,1,300000,0.0,|variants with their own articles=
@@ -1112,7 +1112,7 @@ Novaer Craft U-Xc Stardream,0,300000,0.0,<!--Incremental or flyaway cost for mil
 Martin KF-1,4,300000,0.0,""
 British Aircraft Swallow,135,300000,0.04,|developed from = [[Klemm L.25]] 
 Boeing Model 42,3,300000,0.0,""
-Thorp T-18,400,300000,0.12,approximately $3670 to build in 1971<ref>{{cite journal|magazine=Air Trails|date=Winter 1971|title=The true cost of building your own plane|author=Leo J. Kohn|page=63}}</ref>
+Thorp T-18,400,300000,0.12,approximately $3670 to build in 1971
 Auster B.4,1,300000,0.0,""
 CAP-1 Planalto,20,300000,0.0,""
 Agusta A.115,1,300000,0.0,""
@@ -1132,11 +1132,11 @@ Bernard SIMB AB 10,1,300000,0.0,<!--Incremental or flyaway cost for military or 
 Xian H-6,162,300000,0.04,|primary user= [[People's Liberation Army Air Force]]
 Italair Pegaso,3,300000,0.0,""
 Tachikawa Ki-36,1334,300000,0.4,|variants with their own articles= [[Tachikawa Ki-55]]
-Boeing VC-25,2,300000,0.0,US$325 million
+Boeing VC-25,2,325000000,0.65,US$325 million
 Electravia Electro Trike,9,300000,0.0,"[[Euro|€]]21,500 (2013)"
 Pilatus B-4,322,300000,0.09,""
 RagWing RW22 Tiger Moth,1,300000,0.0,[[United States dollar|US$]]100 (plans 2010)<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
-Wedell-Williams Model 44,4,300000,0.0,"est. US$10,000 in 1931<ref>Hirsch and Schultz 2001, p. 98.</ref>"
+Wedell-Williams Model 44,4,300000,0.0,"est. US$10,000 in 1931"
 Parnall Parasol,2,300000,0.0,""
 Meyers MAC-145,22,300000,0.0,""
 Agusta A.106,2,300000,0.0,""
@@ -1187,7 +1187,7 @@ Short SB.4 Sherpa,1,300000,0.0,|developed from=[[Short SB.1]]
 Timm Aerocraft 2AS,6,300000,0.0,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
 Buhl Bull Pup,100,300000,0.03,""
 Koolhoven F.K.57,1,300000,0.0,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
-Avro Vulcan,136,750000,0.1,"[[Pound sterling|£]]750,000 (1956)<ref>Brookes and Davey 2009, p. 9.</ref>"
+Avro Vulcan,136,750000,0.1,"[[Pound sterling|£]]750,000 (1956)"
 LFG V 59,3,300000,0.0,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
 Short Silver Streak,1,300000,0.0,""
 Letov Š-6,35,300000,0.01,""
@@ -1257,7 +1257,7 @@ Nardi FN.315,31,300000,0.0,""
 Boeing XP-4,1,300000,0.0,""
 Maule M-5,855,300000,0.25,""
 Aydlett A-1,1,300000,0.0,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
-Lockheed YF-12,3,300000,0.0,"US$15–18&nbsp;million (projected)<ref name=knaack>Knaack, 1978.</ref>"
+Lockheed YF-12,3,300000,0.0,"US$15–18 million (projected)<ref name=knaack>Knaack, 1978.</ref>"
 Polikarpov P-2,55,300000,0.01,""
 Arrow Model F,103,300000,0.03,""
 American Eagle A-101,300,300000,0.09,""
@@ -1285,8 +1285,8 @@ Bölkow Bo 46,3,300000,0.0,""
 Beardmore W.B.XXVI,1,300000,0.0,""
 Barbaro RB-50,1,300000,0.0,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
 Naval Air Establishment Chiang Hung,2,300000,0.0,""
-Northrop Grumman MQ-8 Fire Scout,30,18200000,0.54,[[US$]]18.2 million in FY 2013 (flyaway cost)<ref>[http://www.bga-aeroweb.com/Defense/MQ-8-Fire-Scout.html MQ-8 Fire Scout (MQ-8B/C)]. bga-aeroweb.com</ref>
-Culver PQ-10,0,300000,0.0,|developed from  = [[Culver Model MR]]
+Northrop Grumman MQ-8 Fire Scout,30,18200000,0.54,[[US$]]18.2 million in FY 2013 (flyaway cost)
+Culver PQ-10,0,300000,0.0,|developed from = [[Culver Model MR]]
 Hawker Hunter,1972,20000000,39.44,"US $20,000,000 (2013)"
 Spartan DFD Aerotome,30,300000,0.0,"[[US$]]16,500 (2003 price)"
 Nord 3202,101,300000,0.03,""
@@ -1303,7 +1303,7 @@ Coavio DF 2000,30,300000,0.0,"€49,200 (Base, 2009) <!--Incremental or flyaway 
 SPCA 30,2,300000,0.0,""
 Velocity XL,229,300000,0.06,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
 Schleicher ASW 28,144,300000,0.04,""
-Sikorsky UH-60 Black Hawk,4000,300000,1.2,"UH-60: US$21.3&nbsp;million (avg. U.S. procurement, 2012)<ref>[http://comptroller.defense.gov/defbudget/fy2012/FY2012_Weapons.pdf ""United States Department of Defense Fiscal Year 2012 Budget Request: Program Acquisition Costs by Weapon System"", p. 1-13.""] ''Office of the Under Secretary of Defense (Comptroller)/CFO''. February 2011.</ref>"
+Sikorsky UH-60 Black Hawk,4000,21300000,85.2,"UH-60: US$21.3 million (avg. U.S. procurement, 2012)"
 Mitsubishi K7M,2,300000,0.0,""
 Nord 2200,1,300000,0.0,""
 Udet U 1,1,300000,0.0,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
@@ -1373,7 +1373,7 @@ Gloster Gannet,1,300000,0.0,""
 Hawker 800,650,300000,0.19,|developed from = [[British Aerospace BAe 125]]
 Breguet Alizé,89,300000,0.02,|variants with their own articles=
 Lake Buccaneer,1000,300000,0.3,""
-General Atomics MQ-1 Predator,360,300000,0.1,"US$4.03 million (2010)<ref name=""Department of Defense Fiscal Year (FY) 2011 President's Budget Submission""/>"
+General Atomics MQ-1 Predator,360,4030000,1.45,"US$4.03 million (2010)<ref name=""Department of Defense Fiscal Year (FY) 2011 President's Budget Submission""/>"
 Lockheed D-21,38,300000,0.01,|developed from=
 Latécoère 21,7,300000,0.0,""
 Pegna-Bonmartini Rondine,1,300000,0.0,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
@@ -1429,7 +1429,7 @@ Schweizer SGS 1-35,101,300000,0.03,""
 EKW C-36,175,300000,0.05,""
 Antonov An-28,191,300000,0.05,|developed from= [[Antonov An-14]]
 Hanriot H.35,12,300000,0.0,""
-Breguet Atlantic,87,300000,0.02,>$35 Million<ref>[http://www.defencejournal.com/nov99/naval.htm Defence Journal of Pakistan referring to the cost of the airplane] with reference to its downing in the [[Atlantique Incident]]</ref>
+Breguet Atlantic,87,300000,0.02,>$35 Million
 Ravin 500,17,300000,0.0,"[[US$]]85,000 (kit only, 2011)"
 Budd BB-1 Pioneer,1,300000,0.0,""
 Gulfstream Peregrine,1,300000,0.0,""
@@ -1463,7 +1463,7 @@ Fieseler Fi 156,2900,300000,0.87,|developed from =
 Sopwith L.R.T.Tr.,1,300000,0.0,""
 Sikorsky H-19,1102,300000,0.33,|variants with their own articles = [[Westland Whirlwind (helicopter)|Westland Whirlwind]]
 LFG V 52,1,300000,0.0,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
-Curtiss P-40 Warhawk,13738,300000,4.12,"US$44,892 in 1944<ref name=""Army Air Forces Statistical Digest"">{{cite web |ref=harv|year= 2012|url = http://www.usaaf.net/digest/t82.htm|title = Army Air Forces Statistical Digest,World War II|publisher = [[United States Air Force]]| accessdate =22 October 2012 | last=LAST| first= FIRST|quote=}}</ref>  |developed from=[[Curtiss P-36 Hawk]]"
+Curtiss P-40 Warhawk,13738,300000,4.12,"US$44,892 in 1944<ref name=""Army Air Forces Statistical Digest"">{{cite web |ref=harv|year= 2012|url = http://www.usaaf.net/digest/t82.htm|title = Army Air Forces Statistical Digest,World War II|publisher = [[United States Air Force]]| accessdate =22 October 2012 | last=LAST| first= FIRST|quote=}}</ref> |developed from=[[Curtiss P-36 Hawk]]"
 Akaflieg München Mü18 Meßkrähe,1,300000,0.0,""
 Breguet 270 Series,227,300000,0.06,""
 Legrand-Simon LS.60,1,300000,0.0,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
@@ -1481,11 +1481,11 @@ Latécoère 500,2,300000,0.0,""
 Blackburn Sydney,1,300000,0.0,""
 Kondor E.III,10,300000,0.0,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
 Short S.80,1,300000,0.0,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
-Sonex Aircraft SubSonex JSX-1,1,300000,0.0,"[[US$]]130,000 Experimental Amateur Built, [[US$]]135,000 Quick build Experimental Exhibition Category <ref>{{cite journal|magazine=AOPA Pilot|date=October 2014|page=54|title=Your Personal Jet|author=Alton K. Marsh}}</ref>"
+Sonex Aircraft SubSonex JSX-1,1,300000,0.0,"[[US$]]130,000 Experimental Amateur Built, [[US$]]135,000 Quick build Experimental Exhibition Category "
 SNCASE SE.200,2,300000,0.0,""
 Lockheed Air Express,8,300000,0.0,""
 Hanriot HD.5,1,300000,0.0,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
-Dassault Rafale,133,300000,0.03,"Rafale B: {{Currency|74&nbsp;million|EUR}}, {{Currency|101&nbsp;million|US}} ([[flyaway cost]], FY2013)<ref name=Francebudget2013 /> <br />Rafale C: {{Currency|68.8&nbsp;million|EUR}}, {{Currency|94&nbsp;million|US}} (flyaway cost, FY2013)<ref name=Francebudget2013 /> <br />Rafale M:  €79&nbsp;million, US$108&nbsp;million (flyaway cost, 2011)<ref name=Francebudget2013 /><br> Unit cost: €64&nbsp;million, US$90.5&nbsp;million (dependent on type/variant and can be as high as €90&nbsp;million/US$124&nbsp;million, 2009)<ref>{{cite web |url=http://www.senat.fr/rap/a08-102-5/a08-102-516.html#toc236 |title=Projet de loi de finances pour 2009 |language=French|work=Senate |year=2009 |accessdate=5 November 2011|archiveurl=http://www.webcitation.org/6JBGVb8PU|archivedate=27 August 2013}}</ref>"
+Dassault Rafale,133,124000000,16.49,"Rafale B: {{Currency|74 million|EUR}}, {{Currency|101 million|US}} ([[flyaway cost]], FY2013)<ref name=Francebudget2013 /> <br />Rafale C: {{Currency|68.8 million|EUR}}, {{Currency|94 million|US}} (flyaway cost, FY2013)<ref name=Francebudget2013 /> <br />Rafale M: €79 million, US$108 million (flyaway cost, 2011)<ref name=Francebudget2013 /><br> Unit cost: €64 million, US$90.5 million (dependent on type/variant and can be as high as €90 million/US$124 million, 2009)"
 Kayaba Ku-2,1,300000,0.0,""
 Hillson Helvellyn,1,300000,0.0,""
 Handley Page Marathon,43,300000,0.01,|developed from = 
@@ -1493,7 +1493,7 @@ G-class blimp,10,300000,0.0,""
 Hansa-Brandenburg W.11,3,300000,0.0,""
 Ponnier M.1,20,300000,0.0,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
 Bellanca CD,6,300000,0.0,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
-Boeing AH-64 Apache,2000,300000,0.6,"AH-64A: {{US$|link=yes}}20M {{small|(2007)}} <br/>AH-64D: US$65M {{small|(2010)}}<ref>{{cite web |url=http://www.dsca.mil/major-arms-sales/india-support-direct-commercial-sale-ah-64d-block-iii-apache-helicopters |title=Modernizing the Army's Rotary-Wing Aviation Fleet |publisher=Congressional Budget Office |date=November 2007}}</ref><br/>AH-64E: US$35.5M <small>(FY2014)</small><ref name=""FY15budget"">{{cite web |url=http://comptroller.defense.gov/Portals/45/documents/defbudget/fy2015/fy2015_Weapons.pdf#page=18 |page=18 |format=pdf |title=United States Department Of Defense Fiscal Year 2015 Budget Request Program Acquisition Cost By Weapon System |publisher=Office Of The Under Secretary Of Defense (Comptroller)/ Chief Financial Officer |date=March 2014}}</ref>"
+Boeing AH-64 Apache,2000,300000,0.6,"AH-64A: {{US$|link=yes}}20M {{small|(2007)}} <br/>AH-64D: US$65M {{small|(2010)}}<br/>AH-64E: US$35.5M <small>(FY2014)</small><ref name=""FY15budget"">{{cite web |url=http://comptroller.defense.gov/Portals/45/documents/defbudget/fy2015/fy2015_Weapons.pdf#page=18 |page=18 |format=pdf |title=United States Department Of Defense Fiscal Year 2015 Budget Request Program Acquisition Cost By Weapon System |publisher=Office Of The Under Secretary Of Defense (Comptroller)/ Chief Financial Officer |date=March 2014}}</ref>"
 Partenavia Alpha,1,300000,0.0,""
 Fokker C.I,250,300000,0.07,""
 Ryan M-1,36,300000,0.01,""
@@ -1604,7 +1604,7 @@ Berliner-Joyce F2J,1,300000,0.0,<!--Incremental or flyaway cost for military or 
 Letov ST-4 Aztek,15,300000,0.0,"[[US$]]12,970 (kit, including instruments and engine, 1998)"
 Kawanishi K-8 Transport Seaplane,7,300000,0.0,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
 Letov Š-50,1,300000,0.0,""
-Northrop BQM-74 Chukar,1600,24000000,38.4,"$405,000<ref>[http://www.defenseindustrydaily.com/24m-for-60-aerial-target-drones-0249 ""$24M for 60 Aerial Target Drones""], ''Defense Industry Daily'', 29 March 2005</ref>"
+Northrop BQM-74 Chukar,1600,405000,0.64,"$405,000"
 AeroLites AeroMaster AG,4,300000,0.0,"[[US$]]21,075 (complete kit, 1998)"
 Handley Page H.P.43,1,300000,0.0,""
 Hafner Rotachute,8,300000,0.0,| developed from=
@@ -1618,14 +1618,14 @@ Kawanishi K-7 Transport Seaplane,11,300000,0.0,<!--Incremental or flyaway cost f
 Savoia-Marchetti SM.82,726,300000,0.21,|variants with their own articles=
 Schleicher ASH 25,260,300000,0.07,""
 Handasyde glider,2,300000,0.0,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
-Sukhoi PAK FA,5,300000,0.0,T-50: US$50+&nbsp;million<ref>Defence International 2011/02 P.35 (Chinese) [official Russian estimate]</ref><!--Incremental or flyaway cost for military or retail price for commercial aircraft -->
+Sukhoi PAK FA,5,300000,0.0,T-50: US$50+ million<!--Incremental or flyaway cost for military or retail price for commercial aircraft -->
 Breguet 17,100,300000,0.03,""
 AEA Silver Dart,1,300000,0.0,}}
 Piaggio P.150,1,300000,0.0,""
 Bloch MB.480,2,300000,0.0,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
 Piaggio P.111,1,300000,0.0,""
 Beriev Be-4,47,300000,0.01,""
-Boeing 767,1066,300000,0.31,"767-300ER: US$185.8&nbsp;million (2013)<ref name=Boeing_prices>{{cite web |url= http://www.boeing.com/commercial/prices/ |title= Boeing Commercial Airplanes Jet Prices |publisher=Boeing |accessdate= August 8, 2012}}</ref> <br>767-300F: US$188.0&nbsp;million (2013)<ref name=Boeing_prices/>"
+Boeing 767,1066,188000000,200.4,"767-300ER: US$185.8 million (2013)<ref name=Boeing_prices>{{cite web |url= http://www.boeing.com/commercial/prices/ |title= Boeing Commercial Airplanes Jet Prices |publisher=Boeing |accessdate= August 8, 2012}}</ref> <br>767-300F: US$188.0 million (2013)<ref name=Boeing_prices/>"
 Cierva C.29,1,300000,0.0,""
 FBA 290,10,300000,0.0,""
 Rogožarski SIM-Х,21,300000,0.0,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
@@ -1655,7 +1655,7 @@ Farman F.1000,3,300000,0.0,""
 D-class blimp,6,300000,0.0,""
 Airbus A330 MRTT,17,300000,0.0,|developed from= [[Airbus A330]]
 Blériot VIII,1,300000,0.0,""
-Boeing E-6 Mercury,16,300000,0.0,US$141.7&nbsp;million<ref name=E6_fact_file/>
+Boeing E-6 Mercury,16,141700000,2.26,US$141.7 million<ref name=E6_fact_file/>
 Bristol Scout,374,300000,0.11,|variants with their own articles=
 Bellanca SE,1,300000,0.0,""
 Bell Model 65,1,300000,0.0,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
@@ -1683,7 +1683,7 @@ Caudron C.59,1800,300000,0.54,|developed from=
 Caudron C.510 Pélican,62,300000,0.01,""
 Airdrome Bleriot Model XI,3,300000,0.0,"[[US$]]11,995 (full scale, kit less engine and instruments, 2011)"
 Potez-CAMS 161,1,300000,0.0,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
-Boeing B-52 Stratofortress,744,300000,0.22,B-52B: US$14.43&nbsp;million<ref name=knaack_p241/> <br/> B-52H: US$9.28&nbsp;million (1962) <br/> B-52H: US$53.4&nbsp;million (1998)<ref name=USAF_Fact_Sheet/>
+Boeing B-52 Stratofortress,744,53400000,39.72,B-52B: US$14.43 million<ref name=knaack_p241/> <br/> B-52H: US$9.28 million (1962) <br/> B-52H: US$53.4 million (1998)<ref name=USAF_Fact_Sheet/>
 Westland Widgeon (helicopter),12,300000,0.0,|developed from = [[ Westland WS-51 Dragonfly]]
 Ryan Navion,2634,300000,0.79,|variants with their own articles=[[Camair Twin Navion]]
 Armstrong Whitworth Ara,2,300000,0.0,""
@@ -1696,7 +1696,7 @@ Piaggio P.6,15,300000,0.0,""
 Henschel Hs 121,1,300000,0.0,""
 Mitsubishi Ki-15,500,300000,0.15,|variants with their own articles=
 Technoavia SM92 Finist,30,300000,0.0,""
-Taylor Coot,70,300000,0.02,$3500 in 1970<ref>{{cite journal|magazine=Popular Science|date=June 1970|title=All these planes you can build from plans|page=99}}</ref>
+Taylor Coot,70,300000,0.02,$3500 in 1970
 GAF Nomad,172,300000,0.05,|variants with their own articles=
 Boeing 377 Stratocruiser,56,1225000,0.06,"$1,225,000 (1945)"
 Schweizer SGS 1-21,2,300000,0.0,""
@@ -1705,7 +1705,7 @@ SNCAO CAO.600,1,300000,0.0,| developed from=
 Arado Ar 96,3500,300000,1.05,|developed from=
 Westland Wasp,133,300000,0.03,|developed from = [[Saro P.531]]
 Cessna T303 Crusader,315,300000,0.09,|developed from= 
-McDonnell Douglas F-15 Eagle,15,300000,0.0,"F-15A/B: US$28&nbsp;million (1998) <br/>F-15C/D: US$30&nbsp;million (1998)<ref name=""USAF_fact_sheet""/>"
+McDonnell Douglas F-15 Eagle,15,30000000,0.45,"F-15A/B: US$28 million (1998) <br/>F-15C/D: US$30 million (1998)<ref name=""USAF_fact_sheet""/>"
 Stinson Detroiter,100,300000,0.03,""
 Aichi E8A,2,300000,0.0,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
 Arion Lightning,150,300000,0.04,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
@@ -1714,7 +1714,7 @@ Kjeller F.F.9 Kaje,19,300000,0.0,<!--Incremental or flyaway cost for military or
 Blackburn Mercury,9,300000,0.0,""
 AEA June Bug,1,300000,0.0,|variants with their own articles=
 Viking SF-2A Cygnet,100,300000,0.03,"[[US$]]150 (plans only, 1998)<ref name=""Aerocrafter"" />"
-Douglas B-66 Destroyer,294,300000,0.08,"US$2.55 million (RB-66B)<ref name=""knaack"">Knaack, Marcelle Size. ''Post-World War II Bombers, 1945-1973''. Washington, DC: Office of Air Force History, 1988. ISBN 0-16-002260-6.</ref>"
+Douglas B-66 Destroyer,294,2550000,0.74,"US$2.55 million (RB-66B)<ref name=""knaack"">Knaack, Marcelle Size. ''Post-World War II Bombers, 1945-1973''. Washington, DC: Office of Air Force History, 1988. ISBN 0-16-002260-6.</ref>"
 McDonnell Douglas DC-9,976,300000,0.29,US$41.5 to $48.5 million
 Aero A.200,2,300000,0.0,|variants with their own articles=
 FVM Ö1 Tummelisa,28,300000,0.0,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
@@ -1737,7 +1737,7 @@ Douglas Cloudster,1,300000,0.0,""
 Keystone LB-5,36,300000,0.01,""
 Vickers Viastra,6,300000,0.0,""
 Cessna T-37 Tweet,1269,300000,0.38,|developed from =
-Mikoyan MiG-29,1600,300000,0.48,"{{US$|link=yes}}11&nbsp;million (MiG-29B, 1984, 1999)<ref>Gordon and Davison 2005, p. 61.</ref><ref>{{cite web|url=http://sdnbd.org/sdi/news/general-news/July/17-07-2002/Business.htm|title=MiG-29s to be jettisoned|author=Md. Mamun Murtaza Sheriff|publisher=|accessdate=14 November 2014}}</ref> <br/>US$29&nbsp;million (average cost, 2009)<ref>[http://www.defensenews.com/story.php?i=4431181 ""Russia To Sell 20 MiG-29 Fighters To Myanmar.""] ''Defense News'', via ''France-Presse, Agence,'' 23 December 2009.</ref><ref>[http://english.pravda.ru/world/asia/24-12-2009/111368-mig29-0 ""Russian MiG-29 Jets 'Attack' China in Myanmar.""] [[Pravda]], 24 December 2009. Retrieved 1 August 2010.</ref>"
+Mikoyan MiG-29,1600,29000000,46.4,"{{US$|link=yes}}11 million (MiG-29B, 1984, 1999) <br/>US$29 million (average cost, 2009)"
 Lebed XII,216,300000,0.06,""
 Folkerts SK-1,1,300000,0.0,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
 Akaflieg Braunschweig SB-7 Nimbus,4,300000,0.0,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
@@ -1756,13 +1756,13 @@ Consolidated Fleetster,26,300000,0.0,""
 Loehle Sport Parasol,82,300000,0.02,"[[United States dollar|US$]]8,995 (2011 kit cost, less engine)"
 Nelson Dragonfly,7,300000,0.0,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
 Antonov A-15,350,300000,0.1,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
-Boeing E-4,4,223000000,0.89,"[[United States dollar|US$]]223&nbsp;million (1998 dollars)<ref name=""USAF_fact_sheet"">{{Citation |url= http://www.af.mil/AboutUs/FactSheets/Display/tabid/224/Article/104503/e-4b.aspx |title= E-4B |type= fact sheet |publisher= USAF |date= March 2005 |accessdate= December 28, 2013}}.</ref>"
+Boeing E-4,4,223000000,0.89,"[[United States dollar|US$]]223 million (1998 dollars)<ref name=""USAF_fact_sheet"">{{Citation |url= http://www.af.mil/AboutUs/FactSheets/Display/tabid/224/Article/104503/e-4b.aspx |title= E-4B |type= fact sheet |publisher= USAF |date= March 2005 |accessdate= December 28, 2013}}.</ref>"
 SIAI S.51,1,300000,0.0,""
 DAR 9 Siniger,42,300000,0.01,""
 Maestranza Central de Aviación Triciclo-Experimental,1,300000,0.0,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
 Stout 2-AT Pullman,11,300000,0.0,"$25,000 (1925)<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->"
 Bernard 260,2,300000,0.0,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
-NHIndustries NH90,200,52826000,10.56,"[[Euro|€]]32.5 million<ref>{{cite news |url=http://www.defensenews.com/article/20130408/DEFREG01/304080012/Eurocopter-Dropping-NH90-Order-Would-Hurt-France-Firm |title=Eurocopter: Dropping NH90 Order Would Hurt France, Firm |date=8 April 2013 |first=Pierre |last=Tran |publisher=Defense News}} The French Senate reported in November 2012 that the French Army would be paying €28.6m/unit after France's 12% Bonn rebate, implying a price of €32.5m which is consistent with prices quoted for eg the New Zealand order (see NZ section). Prices are under review given the current shortfall in orders compared to what was budgeted for.</ref> (~US$42m) <small>(FY13)</small> TTH<br/>€36.4m<ref name=Francebudget2013 /> (~US$50m) <small>(FY13)</small> NFH support<br/>€43.3m<ref name=Francebudget2013 /> (~US$59m) <small>(FY13)</small> NFH attack"
+NHIndustries NH90,200,52826000,10.56,[[Euro|€]]32.5 million (~US$42m) <small>(FY13)</small> TTH<br/>€36.4m<ref name=Francebudget2013 /> (~US$50m) <small>(FY13)</small> NFH support<br/>€43.3m<ref name=Francebudget2013 /> (~US$59m) <small>(FY13)</small> NFH attack
 Blériot 118,1,300000,0.0,""
 CASA 3000,0,300000,0.0,""
 Ilyushin Il-32,1,300000,0.0,""
@@ -1787,10 +1787,10 @@ Canadair CL-215,125,300000,0.03,|variants with their own articles= [[Bombardier 
 Smith XP-99 Prop-Jet,1,300000,0.0,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
 Anahuac Tauro,12,300000,0.0,""
 North American B-25 Mitchell,9816,300000,2.94,|developed from= [[North American XB-21]]
-Aero L-159 Alca,72,300000,0.02,"US$13 million (2003), US$15–17 million"
+Aero L-159 Alca,72,13000000,0.93,"US$13 million (2003), US$15–17 million"
 Handley Page H.P.51,1,300000,0.0,""
 Thaden T-2,1,300000,0.0,""
-Douglas DC-3,16079,300000,4.82,"{{US$|79500|1935}}{{Inflation-fn|US}}<ref>Rumerman, Judy. [http://www.centennialofflight.gov/essay/Aerospace/DC-3/Aero29.htm ""The Douglas DC-3.""] ''U.S. Centennial of Flight Commission,'' 2003. Retrieved: March 12, 2012.</ref><!-- another, different price ref: ref>Landis, Josh. [http://antarcticsun.usap.gov/pastIssues/2000-2001/2000_11_12.pdf ""A timeless machine returns.""] ''The Antarctic Sun, McMurdo Station, Antarctica,'' 12 November 2000, pp. 1, 4. Retrieved: March 12, 2012.</ref -->"
+Douglas DC-3,16079,300000,4.82,"{{US$|79500|1935}}{{Inflation-fn|US}}<!-- another, different price ref: ref>Landis, Josh. [http://antarcticsun.usap.gov/pastIssues/2000-2001/2000_11_12.pdf ""A timeless machine returns.""] ''The Antarctic Sun, McMurdo Station, Antarctica,'' 12 November 2000, pp. 1, 4. Retrieved: March 12, 2012.</ref -->"
 Harbin Z-19,80,300000,0.02,|developed from = [[Harbin Z-9|Harbin Z-9W]]
 Aeronautica Lombarda AL-12P,16,300000,0.0,""
 Sopwith Atlantic,1,300000,0.0,""
@@ -1801,7 +1801,7 @@ Schweizer SGU 1-6,1,300000,0.0,""
 Messerschmitt Me 163 Komet,370,300000,0.11,|variants with their own articles=
 Kokusai Ku-8,700,300000,0.21,""
 Eberman 1930 Monoplane,1,300000,0.0,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
-Airbus A330,1139,300000,0.34,"A330-200: US$221.7&nbsp;million, €163.9 million (2014)<ref name=Airbus_prices>{{cite web |url=http://www.airbus.com/presscentre/corporate-information/key-documents/?eID=dam_frontend_push&docID=36716|format=PDF |title= Airbus aircraft 2014 average list prices|publisher=Airbus S.A.S |accessdate=31 January 2014}}</ref> <br />A330-300: US$245.6M, €181.5M (2014)<ref name=Airbus_prices/> <br />A330-200F: US$224.8M, €166.1M (2014)<ref name=Airbus_prices/>"
+Airbus A330,1139,221700000,252.51,"A330-200: US$221.7 million, €163.9 million (2014)<ref name=Airbus_prices>{{cite web |url=http://www.airbus.com/presscentre/corporate-information/key-documents/?eID=dam_frontend_push&docID=36716|format=PDF |title= Airbus aircraft 2014 average list prices|publisher=Airbus S.A.S |accessdate=31 January 2014}}</ref> <br />A330-300: US$245.6M, €181.5M (2014)<ref name=Airbus_prices/> <br />A330-200F: US$224.8M, €166.1M (2014)<ref name=Airbus_prices/>"
 TAI Anka,5,300000,0.0,|developed from = 
 Selex ES Falco,50,300000,0.01,|developed from = 
 Warwick W-4 Hot Canary,1,300000,0.0,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
@@ -1815,7 +1815,7 @@ Short Type 320,127,300000,0.03,""
 Głowiński monoplane,1,300000,0.0,""
 Mikoyan-Gurevich MiG-25,1186,300000,0.35,|produced= 1964–1984
 Fournier RF-3,1,300000,0.0,""
-Boeing 707,1010,300000,0.3,"US$4.3 million (in 1955)<ref name=""Bowers434""/>"
+Boeing 707,1010,4300000,4.34,"US$4.3 million (in 1955)<ref name=""Bowers434""/>"
 Fizir F1V,56,300000,0.01,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
 Avia BH-2,1,300000,0.0,""
 Brochet MB.100,21,300000,0.0,""
@@ -1852,7 +1852,7 @@ Junkers J 2,6,300000,0.0,""
 Arado SC I,14,300000,0.0,""
 Fiat AS.1,550,300000,0.16,""
 Akaflieg München Mü30 Schlacro,1,300000,0.0,""
-Kolb Firefly,500,300000,0.15,"US$8590 (2010 cost, less engine)<ref name=""Prices""> {{cite web|url = http://www.aerokml.com/index.php?option=com_content&task=view&id=44&Itemid=75|title = Firefly - Price List|accessdate = 10 May 2010|last =  The New Kolb Aircraft|authorlink = |year = 2010}}</ref>"
+Kolb Firefly,500,300000,0.15,"US$8590 (2010 cost, less engine)<ref name=""Prices""> {{cite web|url = http://www.aerokml.com/index.php?option=com_content&task=view&id=44&Itemid=75|title = Firefly - Price List|accessdate = 10 May 2010|last = The New Kolb Aircraft|authorlink = |year = 2010}}</ref>"
 Sikorsky XHJS,2,300000,0.0,|developed from = [[Sikorsky H-5|Sikorsky S-51]]
 Boeing Phantom Ray,1,300000,0.0,|developed from = [[Boeing X-45|Boeing X-45C]]
 Rolladen-Schneider LS2,1,300000,0.0,""
@@ -1875,11 +1875,11 @@ Fairchild FB-3,1,300000,0.0,<!--Incremental or flyaway cost for military or reta
 HAL Pushpak,160,300000,0.04,""
 Kaiser-Fleetwings XBTK,5,300000,0.0,""
 Kamov Ka-22,4,300000,0.0,""
-Irkut MC-21,21,72000000,1.51,MS-21-200: [[US$]] 72 million<ref>[http://www.flightglobal.com/news/articles/paris-irkut-to-build-first-mc-21-by-year-end-387399/ PARIS: Irkut to build first MC-21 by year-end] at flightglobal.com</ref>
+Irkut MC-21,21,72000000,1.51,MS-21-200: [[US$]] 72 million
 Nicollier HN 500 Bengali,1,300000,0.0,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
 Conair Firecat,35,300000,0.01,""
 Fokker D.XXI,148,300000,0.04,|developed from=
-Convair F-102 Delta Dagger,1000,300000,0.3,"US$1.2&nbsp;million<ref name=""knaack p169"">{{harvnb|Knaack|1978|p=169.}}</ref>"
+Convair F-102 Delta Dagger,1000,1200000,1.2,"US$1.2 million<ref name=""knaack p169"">{{harvnb|Knaack|1978|p=169.}}</ref>"
 CAIC Z-10,74,300000,0.02,|developed from = 
 Potez 28,2,300000,0.0,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
 Gyrodyne RON Rotorcycle,10,300000,0.0,""
@@ -1899,13 +1899,13 @@ Fokker D.XIII,53,300000,0.01,""
 Carley C.12,12,300000,0.0,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
 Wright Model E,1,300000,0.0,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
 Caproni Ca.97,13,300000,0.0,""
-Bharat Swati,20,3800000,0.07,{{Indian Rupee}}3.8 million (1998)<ref>http://www.aero.pub.ro/wp-content/themes/aero.pub.ro/uploads/JANE_S_ALL_THE_WORLD_S_AIRCRAF/JANE_S_ALL_THE_WORLD_S_AIRCRAF/jawa0378.htm#IMG</ref>
+Bharat Swati,20,3800000,0.07,{{Indian Rupee}}3.8 million (1998)
 AeroVironment RQ-20 Puma,1000,300000,0.3,"$250,000"
 Akaflieg Darmstadt D-6 Geheimrat,1,300000,0.0,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
 Bücker Bü 182,4,300000,0.0,""
 North American AJ Savage,140,300000,0.04,|variants with their own articles=
 Stoddard-Hamilton Glasair II,1200,300000,0.36,"[[US$]]47,094 (2012 kit, less engine, paint, avionics, instruments, upholstery and propeller)"
-Consolidated B-24 Liberator,18482,300000,5.54,"$297,627 (${{Formatprice|{{Inflation|US|297627|1941|r=2}}}} in today's dollars){{Inflation-fn|US}}<ref>[http://www.pacificwrecks.com/aircraft/b-24/tech.html ""Consolidated B-24 Liberator.""] ''pacificwrecks.com''. Retrieved: 16 June 2010.</ref>"
+Consolidated B-24 Liberator,18482,300000,5.54,"$297,627 (${{Formatprice|{{Inflation|US|297627|1941|r=2}}}} in today's dollars){{Inflation-fn|US}}"
 LiteWing Aircraft LiteWing,20,300000,0.0,"[[US$]]3,500<br/>(2000 price, without wing)"
 Potez 661,2,300000,0.0,""
 VL Humu,1,300000,0.0,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
@@ -1992,7 +1992,7 @@ Laird-Turner Meteor LTR-14,1,300000,0.0,<!--Incremental or flyaway cost for mili
 Potez 60,155,300000,0.04,""
 Raceair Lil Bitts,1,300000,0.0,"$19,900 for a engineless kit in 2007 <!--Incremental or flyaway cost for military or retail price for commercial aircraft-->"
 Hanriot H.31,1,300000,0.0,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
-Consolidated Vultee XP-81,2,300000,0.0,US$4.6 million for the program<ref>Knaack 1978</ref>
+Consolidated Vultee XP-81,2,4600000,0.0,US$4.6 million for the program
 Hitachi TR.1,13,300000,0.0,""
 Pilatus P-5,0,300000,0.0,""
 Sequoia 300 Sequoia,1,300000,0.0,""
@@ -2013,7 +2013,7 @@ Coandă-1910,1,300000,0.0,""
 Scaled Composites Catbird,1,300000,0.0,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
 Avro 519,4,300000,0.0,""
 ACAZ C.2,1,300000,0.0,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
-Kamov Ka-226,22,4200000,0.09,"$4,200,000  (2007)<ref name=""Kamov Ka-226"">[http://aviapacific.com/page8/Ka226.html Kamov Ka-226]</ref>"
+Kamov Ka-226,22,4200000,0.09,"$4,200,000 (2007)<ref name=""Kamov Ka-226"">[http://aviapacific.com/page8/Ka226.html Kamov Ka-226]</ref>"
 Handley Page Type W,25,300000,0.0,|developed from =
 Trident TR-1 Trigull,3,300000,0.0,| developed from= [[Republic RC-3 Seabee]]
 SZD-45 Ogar,65,300000,0.01,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
@@ -2059,12 +2059,12 @@ Ryan S-C,13,300000,0.0,""
 Heinkel HD 23,4,300000,0.0,""
 Lockheed YP-24,1,300000,0.0,|primary user=[[United States Army Air Corps]]
 Boeing XP-9,1,300000,0.0,|developed from=
-Cessna 172,43000,307500,13.22,"172: [[United States dollar|US$]]8,700 (1956)<ref name=""AirAndSpaceMag2006Jul"">{{cite web|url = http://www.airspacemag.com/history-of-flight/cessna.html|title =Cessna's Golden Oldie|accessdate = 2009-04-16|author = Mola, Roger A.|authorlink = |date=Jul 2006}}</ref><br />172R: US$274,900 (2012)<ref>[http://textron.vo.llnwd.net/o25/CES/cessna_aircraft_docs/single_engine/skyhawk/skyhawk_pricesheet.pdf 2012 172R Price Sheet]</ref><br />172S: US$307,500 (2012)<ref>[http://textron.vo.llnwd.net/o25/CES/cessna_aircraft_docs/single_engine/skyhawk/skyhawksp_pricesheet.pdf 2012 172S Price Sheet]</ref>"
+Cessna 172,43000,307500,13.22,"172: [[United States dollar|US$]]8,700 (1956)<ref name=""AirAndSpaceMag2006Jul"">{{cite web|url = http://www.airspacemag.com/history-of-flight/cessna.html|title =Cessna's Golden Oldie|accessdate = 2009-04-16|author = Mola, Roger A.|authorlink = |date=Jul 2006}}</ref><br />172R: US$274,900 (2012)<br />172S: US$307,500 (2012)"
 Agusta A.105,2,300000,0.0,""
 Acme Sportsman,2,300000,0.0,|variants with their own articles=
 Arado W 2,2,300000,0.0,""
 Beagle Husky,150,300000,0.04,""
-Martin B-10,121,300000,0.03,"$52,083<ref name=""fitz46"">Fitzsimons 1969,  p. 1846.</ref>"
+Martin B-10,121,300000,0.03,"$52,083<ref name=""fitz46"">Fitzsimons 1969, p. 1846.</ref>"
 Curtiss-Wright CA-1,3,300000,0.0,""
 Fouga CM.10,7,300000,0.0,""
 Hannover CL.III,617,300000,0.18,""
@@ -2097,7 +2097,7 @@ Wag-Aero CHUBy CUBy,40,300000,0.01,<!--Incremental or flyaway cost for military 
 Groen Hawk 4,3,300000,0.0,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
 Boeing XP-7,1,300000,0.0,""
 JDT Hi-MAX,277,300000,0.08,""
-Quest Kodiak,100,1700000,0.17,"$1.7 million ""Green-aircraft"" (2012)<ref>{{cite journal|magazine=Aviation Week & Space Technology|date=3 September 2012|title=New Bedfellows|author=Amy Butler}}</ref>"
+Quest Kodiak,100,1700000,0.17,"$1.7 million ""Green-aircraft"" (2012)"
 Rohrbach Romar,4,300000,0.0,""
 Rolls-Royce Thrust Measuring Rig,2,300000,0.0,""
 Arrow Sport,100,300000,0.03,$2985 for an Arrow Sport 85 in 1931
@@ -2108,7 +2108,7 @@ NASA Hyper III,1,300000,0.0,""
 Duruble Edelweiss,10,300000,0.0,""
 I.S.T. L-17,1,300000,0.0,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
 Friedrichshafen FF.33,33,300000,0.0,|developed from=
-North American XB-70 Valkyrie,2,300000,0.0,US$750&nbsp;million (average cost)
+North American XB-70 Valkyrie,2,750000000,1.5,US$750 million (average cost)
 Boeing TB,3,300000,0.0,""
 Gidroplan Che-22 Korvet,80,300000,0.02,"€45,850 flyaway in 2012."
 Sport Jet II,1,1300000,0.0,"[[US$]]1,300,000 (2011)"
@@ -2133,6 +2133,7 @@ Zeppelin-Staaken R.VI,18,300000,0.0,"|variants with their own articles =[[Zeppel
 Honda MH02,1,300000,0.0,|program cost = 
 Supermarine Sea Lion II,1,300000,0.0,""
 Chyeranovskii BICh-3,1,300000,0.0,""
+Cirrus SR22,4365,499900,2.18,"[[United States dollar|US$]]499,900 (base price: 2015 SR22)<ref name=""2015SR22DomesticPricelist"">{{cite web|url=http://cirrusaircraft.box.com/shared/static/yp6lgnicc0xh7ue2o882.pdf/2015SR22DomesticPricelist.pdf|title=SR22 Domestic Price List|accessdate=2014-12-23|last=[[Cirrus Aircraft]]|year = 2015}}</ref><br />"
 Avia BH-11,20,300000,0.0,""
 Technoavia Rysachok,0,300000,0.0,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
 Hispano HS-34,6,300000,0.0,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
@@ -2161,7 +2162,7 @@ Tisserand Hydroplum,3,300000,0.0,<!--Incremental or flyaway cost for military or
 DRDO AURA,0,300000,0.0,tbd
 Ilyushin Il-46,1,300000,0.0,""
 Cessna 425,236,300000,0.07,""
-General Atomics Avenger,3,15000000,0.04,"$12 million to $15 million<ref>[http://www.signonsandiego.com/news/2010/may/04/more-drones-smaller-navy/ More drones, smaller Navy]</ref>"
+General Atomics Avenger,3,15000000,0.04,$12 million to $15 million
 Farman F.160,250,300000,0.07,""
 BFW M.20,15,300000,0.0,""
 Latécoère 32,8,300000,0.0,""
@@ -2196,7 +2197,7 @@ Fiat G.80,2,300000,0.0,""
 Corvus Racer 540,1,300000,0.0,""
 Schleicher ASW 22,87,300000,0.02,""
 Warner Revolution II,30,300000,0.0,"[[US$]]495.00 (plans only, 1998)<br />US$18,995.00 (kit, less engine, 1998)"
-Boeing P-26 Peashooter,151,300000,0.04,"$14,009<ref>Bowers 1976, p. 20.</ref>"
+Boeing P-26 Peashooter,151,300000,0.04,"$14,009"
 Lockheed A-12,12,300000,0.0,|variants with their own articles= [[Lockheed YF-12]]
 Dufaux triplane,1,300000,0.0,""
 St. Louis C2 Cardinal,22,300000,0.0,$4250 for a Super Cardinal in 1929 <!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
@@ -2265,7 +2266,7 @@ Fairchild Dornier 328JET,110,300000,0.03,|developed from = [[Dornier 328]]
 Siemens-Schuckert DDr.I,1,300000,0.0,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
 Morane-Saulnier MS.341,40,300000,0.01,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
 Dyott Bomber,2,300000,0.0,| developed from= 
-Evangel 4500,8,300000,0.0,"$70,500 in 1971<ref>{{Cite journal|magazine=Air Progress|date=October 1971|page=18}}</ref>"
+Evangel 4500,8,300000,0.0,"$70,500 in 1971"
 Fauvel AV.36,100,300000,0.03,""
 Sikorsky XH-39,1,300000,0.0,|developed from = [[Sikorsky S-52]]
 Conroy Tri-Turbo-Three,2,300000,0.0,|developed from= [[Conroy Turbo Three]]
@@ -2306,14 +2307,14 @@ Bede BD-7,1,300000,0.0,""
 Elitar-202,10,300000,0.0,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
 Curtiss HA,6,300000,0.0,""
 Potez IX,30,300000,0.0,""
-HAL Tejas,16,300000,0.0,"{{INRConvert|200|c|0}} for Mark I<ref>[http://ibnlive.in.com/blogs/sauravjha/2976/65371/interview-with-the-chief-of-drdo-avinash-chander-part-ii.html]. Business Standard  {{Wayback|df=yes|url=http://ibnlive.in.com/blogs/sauravjha/2976/65371/interview-with-the-chief-of-drdo-avinash-chander-part-ii.html|date =20140112092912}}</ref><ref>Majumdar, Bappa. [http://www.reuters.com/article/2009/08/28/india-defence-fighters-idUSDEL38704020090828 ""India's light combat aircraft to phase out Russian jets.""] Reuters, 28 April 2009. Retrieved 29 May 2012. {{Wayback|df=yes|url=http://www.reuters.com/article/2009/08/28/india-defence-fighters-idUSDEL38704020090828|date =20090831104947}}</ref>"
+HAL Tejas,16,300000,0.0,{{INRConvert|200|c|0}} for Mark I
 Dean Delt-Air 250,1,300000,0.0,""
 Leins Bal-Aire,1,300000,0.0,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
 Nord 1601,1,300000,0.0,""
 Dayton-Wright Racer,1,300000,0.0,""
 VFW-Fokker FK-3,13,300000,0.0,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
 Dallach Sunrise,39,300000,0.01,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
-ATR 72,1200,300000,0.36,"72–600: US$24.7 million (2014)<ref>{{cite web |url= http://www.mro-network.com/news/2014/01/air-algerie-builds-fleet-boeing-and-atr-orders/2390 | title= Air Algerie builds fleet with Boeing and ATR orders |date= 8 January 2014 |publisher= The MRO Network}}, US$74M / 3 aircraft = US$24.7M per aircraft</ref>"
+ATR 72,1200,24700000,29.64,72–600: US$24.7 million (2014)
 Neiva Regente,122,300000,0.03,""
 Caproni Vizzola F.5,13,300000,0.0,""
 Latham 43,28,300000,0.0,""
@@ -2368,7 +2369,7 @@ Stout Bushmaster 2000,2,300000,0.0,""
 IVL C.24,1,300000,0.0,|developed from=
 Martin P6M SeaMaster,12,300000,0.0,""
 Dornier Do 22,30,300000,0.0,|variants with their own articles=
-De Havilland Comet,114,300000,0.03,"Comet 1: [[Pound sign|£]]275,000 (1952)<ref>[http://www.flightglobal.com/pdfarchive/view/1974/1974%20-%200411.html ""Great Airliners 11: de Havilland Comet"".] ''Flight'', 14 March 1974. Retrieved 26 April 2012.</ref>"
+De Havilland Comet,114,300000,0.03,"Comet 1: [[Pound sign|£]]275,000 (1952)"
 Convair Model 116,1,300000,0.0,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
 Curtiss GS,6,300000,0.0,""
 Aichi B7A,114,300000,0.03,|variants with their own articles=
@@ -2377,12 +2378,12 @@ Airco DH.1,100,300000,0.03,""
 Vogt Lo-100,45,300000,0.01,""
 CANT 18,29,300000,0.0,""
 Polikarpov VIT-2,1,300000,0.0,""
-Xian MA60,80,300000,0.02,US$11-12 million<ref>[http://www.thejakartapost.com/news/2011/05/26/procurement-questions-clip-merpati%E2%80%99s-wings.html Procurement questions clip Merpati’s wings | The Jakarta Post<!-- Bot generated title -->]</ref>
+Xian MA60,80,12000000,0.96,US$11-12 million<ref>[http://www.thejakartapost.com/news/2011/05/26/procurement-questions-clip-merpati%E2%80%99s-wings.html Procurement questions clip Merpati’s wings | The Jakarta Post<!-- Bot generated title -->]</ref>
 CIL Reghin Albatros,25,300000,0.0,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
 Gazuit-Valladeau GV-1020,7,300000,0.0,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
 United Consultants Twin Bee,23,300000,0.0,""
 Westland PV.7,1,300000,0.0,""
-Airbus A318,79,300000,0.02,"US$71.9&nbsp;million, €53 million (2014)<ref name=""Airbus prices"">{{cite web |url = http://www.airbus.com/presscentre/corporate-information/key-documents/?eID=dam_frontend_push&docID=36716|format=PDF |title = Airbus aircraft 2014 average list prices|publisher=Airbus S.A.S |accessdate=1 February 2014}}</ref>"
+Airbus A318,79,71900000,5.68,"US$71.9 million, €53 million (2014)<ref name=""Airbus prices"">{{cite web |url = http://www.airbus.com/presscentre/corporate-information/key-documents/?eID=dam_frontend_push&docID=36716|format=PDF |title = Airbus aircraft 2014 average list prices|publisher=Airbus S.A.S |accessdate=1 February 2014}}</ref>"
 Focke-Wulf Flitzer,46,300000,0.01,""
 Ambrosini S.7,10,300000,0.0,""
 RWD 11,1,300000,0.0,""
@@ -2405,7 +2406,7 @@ Breda A.7,14,300000,0.0,""
 CVV 2 Asiago,25,300000,0.0,$550 ex-Milan in 1938
 Koolhoven F.K.42,1,300000,0.0,""
 Beechcraft Lightning,2,300000,0.0,|developed from = [[Beechcraft Baron]]
-Payne Knight Twister,75,300000,0.02,approximately $2530 to build in 1971<ref>{{cite journal|magazine=Air Trails|date=Winter 1971|title=The true cost of building your own plane|author=Leo J. Kohn|page=63}}</ref>
+Payne Knight Twister,75,300000,0.02,approximately $2530 to build in 1971
 Cierva C.2,1,300000,0.0,""
 Canadair CF-5,220,300000,0.06,|primary user= [[Canadian Forces]]
 Temco TT Pinto,15,300000,0.0,|developed from=
@@ -2417,7 +2418,7 @@ Sayers S.C.W.,1,300000,0.0,<!--Incremental or flyaway cost for military or retai
 Auster D.6,4,300000,0.0,""
 Aviat Husky,650,300000,0.19,|variants with their own articles=
 Avia B-34,14,300000,0.0,""
-Cessna 182,23237,443500,10.3,"182T Skylane [[United States Dollar|USD]]$398,100 (2012)<ref>[http://textron.vo.llnwd.net/o25/CES/cessna_aircraft_docs/single_engine/skylane/skylane_pricesheet.pdf 2012 182 Skylane Price Sheet]</ref><br />T182T Turbo Skylane[[United States Dollar|USD]]$443,500 (2012)<ref>[http://textron.vo.llnwd.net/o25/CES/cessna_aircraft_docs/single_engine/skylane/skylanetc_pricesheet.pdf 2012 T182T Skylane Price Sheet]</ref>"
+Cessna 182,23237,443500,10.3,"182T Skylane [[United States Dollar|USD]]$398,100 (2012)<br />T182T Turbo Skylane[[United States Dollar|USD]]$443,500 (2012)"
 Nord Norécrin,378,300000,0.11,""
 FMA IA-59,1,300000,0.0,""
 Austin Kestrel,1,300000,0.0,""
@@ -2429,7 +2430,7 @@ Yakovlev AIR-1,6,300000,0.0,""
 Grumman J2F Duck,584,300000,0.17,""
 De Havilland DH.14 Okapi,3,300000,0.0,|variants with their own articles = 
 Bristol Seely,1,300000,0.0,""
-Lockheed C-130 Hercules,2300,30100000,69.23,C-130H $30.1 million<ref>http://www.af.mil/AboutUs/FactSheets/Display/tabid/224/Article/104517/c-130-hercules.aspx</ref>
+Lockheed C-130 Hercules,2300,30100000,69.23,C-130H $30.1 million
 Avro Tutor,606,300000,0.18,"|variants with their own articles=[[Avro Prefect|Avro 626]], [[PWS-18]]"
 Dornier Do Y,4,300000,0.0,""
 Sikorsky S-64 Skycrane,110,300000,0.03,|developed from = [[CH-54 Tarhe]]
@@ -2441,12 +2442,12 @@ Akaflieg Stuttgart FS-24,8,300000,0.0,""
 CAC Ceres,21,300000,0.0,|developed from= [[CAC Wirraway]]
 Convair YB-60,2,300000,0.0,|developed from=[[Convair B-36]]
 Mitsubishi H-60,178,300000,0.05,|developed from = [[Sikorsky SH-60 Seahawk]] <br />[[Sikorsky UH-60 Black Hawk]]
-RLU-1 Breezy,1000,300000,0.3,approximately $3065 to build in 1971<ref>{{cite journal|magazine=Air Trails|date=Winter 1971|title=The true cost of building your own plane|author=Leo J. Kohn|page=63}}</ref>
+RLU-1 Breezy,1000,300000,0.3,approximately $3065 to build in 1971
 Heinkel HD 26,2,300000,0.0,""
 Turbay T-3,1,300000,0.0,""
 Piaggio P.2,2,300000,0.0,""
 Yermolayev Yer-2,360,300000,0.1,""
-Smith Miniplane,350,300000,0.1,approximately $2560 to build in 1971<ref>{{cite journal|magazine=Air Trails|date=Winter 1971|title=The true cost of building your own plane|author=Leo J. Kohn|page=63}}</ref>
+Smith Miniplane,350,300000,0.1,approximately $2560 to build in 1971
 Albatros L 74,2,300000,0.0,""
 Rogožarski SIM-XI,1,300000,0.0,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
 Dornier Do 335,37,300000,0.01,|variants with their own articles=
@@ -2478,8 +2479,8 @@ Sikorsky CH-124 Sea King,41,300000,0.01,|developed from= [[SH-3 Sea King]]
 Dewoitine D.513,2,300000,0.0,|developed from=
 CVV 1 Pinguino,1,300000,0.0,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
 Siebel Si 202,66,300000,0.01,""
-Boeing 777,1254,300000,0.37,"777-200ER: US$261.5&nbsp;million<ref name=prices>{{cite web |author=<!--Staff writer(s); no by-line.--> |title=Commercial Airplanes Jet Prices |url=http://www.boeing.com/commercial/prices/ |work=Boeing |publisher=The Boeing Company |accessdate=November 18, 2013}}</ref> <br/>777-200LR: US$296.0&nbsp;million<ref name=prices/> <br/>777-300ER: US$320.2&nbsp;million<ref name=prices/> <br/>777F: US$300.5&nbsp;million<ref name=prices/>"
-Lockheed S-3 Viking,188,27000000,5.07,[[United States dollar|US$]]27&nbsp;million (1974)
+Boeing 777,1254,300500000,376.82,"777-200ER: US$261.5 million<ref name=prices>{{cite web |author=<!--Staff writer(s); no by-line.--> |title=Commercial Airplanes Jet Prices |url=http://www.boeing.com/commercial/prices/ |work=Boeing |publisher=The Boeing Company |accessdate=November 18, 2013}}</ref> <br/>777-200LR: US$296.0 million<ref name=prices/> <br/>777-300ER: US$320.2 million<ref name=prices/> <br/>777F: US$300.5 million<ref name=prices/>"
+Lockheed S-3 Viking,188,27000000,5.07,[[United States dollar|US$]]27 million (1974)
 McDonnell Douglas MD-90,116,300000,0.03,US$41.5–48.5 million
 Dassault Communauté,1,300000,0.0,""
 SIAI S.22,1,300000,0.0,""
@@ -2491,7 +2492,7 @@ Custom Flight Lite Star,2,300000,0.0,"[[US$]]60,000 (ready-to-fly, 2011)"
 Atlas XH-1 Alpha,1,300000,0.0,|developed from = [[Aérospatiale Alouette III]] <!-- the aircraft which formed the basis for the topic type -->
 Armstrong Whitworth Awana,2,300000,0.0,""
 Tomark Viper,26,300000,0.0,"Ultralight €55,000<br />LSA €66,000 plus tax.<br />Rotax 912ULS €1,700 extra (2009 prices)."
-Grumman F6F Hellcat,12275,300000,3.68,"$35,000 in 1945<ref>Ferguson 2005, pp. 149–175.</ref>"
+Grumman F6F Hellcat,12275,300000,3.68,"$35,000 in 1945"
 Paumier MP2 Baladin,2,300000,0.0,""
 Dornier Do 214,0,300000,0.0,|developed from=
 Castel-Mauboussin CM.7,2,300000,0.0,""
@@ -2562,7 +2563,7 @@ Funk B,380,300000,0.11,""
 Handley Page Type G,1,300000,0.0,""
 Raj Hamsa X-Air,804,300000,0.24,"[[US$]]9494 (X-Air base price, 2004)"
 Heinkel HD 25,18,300000,0.0,""
-Chengdu J-10,400,27840000,11.13,"190 million [[RMB]] (27.84 million [[United States dollar|USD]]; 2010)<ref>{{cite web|last=Hornby |first=Lucy |url=http://in.reuters.com/article/worldNews/idINIndia-47657420100413?pageNumber=1&virtualBrandChannel=0 |title=reuters, China J-10 |publisher=In.reuters.com |date=2010-04-13 |accessdate=2011-05-23}}</ref>"
+Chengdu J-10,400,27840000,11.13,190 million [[RMB]] (27.84 million [[United States dollar|USD]]; 2010)
 Hiller X-18,1,300000,0.0,|developed from = 
 I.S.T. XL-15 Tagak,1,300000,0.0,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
 Beriev Be-2,12,300000,0.0,""
@@ -2598,7 +2599,7 @@ Albatros L 65,2,300000,0.0,""
 Sablatnig P.III,30,300000,0.0,""
 Etrich Luft-Limousine,2,300000,0.0,""
 Caudron C.362,3,300000,0.0,""
-Mong MS1 Sport,200,300000,0.06,approximately $1750 to build in 1971<ref>{{cite journal|magazine=Air Trails|date=Winter 1971|title=The true cost of building your own plane|author=Leo J. Kohn|page=63}}</ref>
+Mong MS1 Sport,200,300000,0.06,approximately $1750 to build in 1971
 Salmson Cricri,341,300000,0.1,""
 Oberlerchner Mg 23,26,300000,0.0,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
 Wittman DFA,1,300000,0.0,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
@@ -2615,7 +2616,7 @@ Kamov Ka-8,1,300000,0.0,<!--Incremental or flyaway cost for military or retail p
 Dyke Delta,50,300000,0.01,""
 Putilov Stal-11,1,300000,0.0,""
 Morane-Saulnier MS.130,150,300000,0.04,""
-North American X-10,5,300000,0.0,|developed from  = 
+North American X-10,5,300000,0.0,|developed from = 
 Tupolev Tu-12,5,300000,0.0,""
 Supermarine 545,1,300000,0.0,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
 Fly Products Gold,1000,300000,0.3,"[[US$]]7,250 (Gold 130, 2005)"
@@ -2643,7 +2644,7 @@ Nikitin PSN-1,10,300000,0.0,""
 Akaflieg Darmstadt D-34,2,300000,0.0,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
 Moskalyev SAM-5,40,300000,0.01,""
 SECAT RG-75,2,300000,0.0,""
-Grumman A-6 Intruder,693,300000,0.2,US$43 million (1998)
+Grumman A-6 Intruder,693,43000000,29.79,US$43 million (1998)
 Avia BH-26,8,300000,0.0,""
 Messerschmitt Me 264,3,300000,0.0,|primary user=''[[Luftwaffe]]''
 Folkerts SK-3,1,300000,0.0,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
@@ -2661,7 +2662,7 @@ Culver Cadet,600,300000,0.18,|developed from =
 Javelin Wichawk,18,300000,0.0,""
 Grigorovich IP-1,90,300000,0.02,""
 Miles Merchantman,1,300000,0.0,""
-Bell AH-1 SuperCobra,1271,300000,0.38,AH-1W: US$10.7 million<ref>{{citation |url= http://hqinet001.hqmc.usmc.mil/AVN/documents/aircraft/rotarywing/ah1.htm |publisher= USMC HQ |title= AH-1W Cobra |accessdate= 2007-09-11}}.{{dead link|date=July 2011}}</ref>
+Bell AH-1 SuperCobra,1271,10700000,13.59,AH-1W: US$10.7 million
 IAR 47,2,300000,0.0,""
 Sopwith Grasshopper,1,300000,0.0,""
 Laron Wizard,220,300000,0.06,"[[US$]]14,500 (kit, less engine, 1998)"
@@ -2691,7 +2692,7 @@ Udet U 12,300,300000,0.09,""
 Nord Pingouin,286,300000,0.08,""
 Raven 2XS,2,300000,0.0,"[[US$]]24,000 (kit only, less engine, instruments, 2011)"
 Bellanca XSOE,1,300000,0.0,""
-Boeing 787 Dreamliner,210,300000,0.06,"787-8: US$218.3 &nbsp;million (2013)<ref name=""prices"">{{cite web |url= http://www.boeing.com/commercial/prices/ |title= Boeing Commercial Airplanes prices |publisher=Boeing |accessdate=August 15, 2013}}</ref> <br />787-9: US$257.1&nbsp;million (2013)<ref name=""prices""/> <br />787-10: US$297.5&nbsp;million (2013)<ref name=""prices""/>"
+Boeing 787 Dreamliner,210,297500000,62.47,"787-8: US$218.3 million (2013)<ref name=""prices"">{{cite web |url= http://www.boeing.com/commercial/prices/ |title= Boeing Commercial Airplanes prices |publisher=Boeing |accessdate=August 15, 2013}}</ref> <br />787-9: US$257.1 million (2013)<ref name=""prices""/> <br />787-10: US$297.5 million (2013)<ref name=""prices""/>"
 Payen Pa 49,1,300000,0.0,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
 CASA C-102,0,300000,0.0,""
 Dewoitine D.560,1,300000,0.0,""
@@ -2704,7 +2705,7 @@ Schweizer SGU 2-22,258,300000,0.07,""
 Ilyushin Il-108,1,300000,0.0,""
 Handasyde Monoplane,1,300000,0.0,""
 Bellanca Viking,1356,300000,0.4,|variants with their own articles=
-Canadair CP-107 Argus,33,5513000,0.18,"$5,513,000 <ref>[http://www.rcafmuseum.on.ca/ac_argus.htm ""Canadair Argus.""]  ''RCAF Museum.'' Retrieved: 21 February 2007.</ref>"
+Canadair CP-107 Argus,33,5513000,0.18,"$5,513,000 "
 Bristol Prier monoplane,34,300000,0.01,""
 Landray GL.02,1,300000,0.0,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
 Supermarine Sea Lion I,1,300000,0.0,""
@@ -2739,7 +2740,7 @@ Savoia-Marchetti SM.81,535,300000,0.16,|developed from=[[Savoia-Marchetti S.73]]
 Latécoère 6,1,300000,0.0,""
 Cicaré CK.1,1,300000,0.0,""
 De Havilland Dolphin,1,300000,0.0,""
-Embraer E-Jet family,1100,47000000,51.7,E-170: [[US$]]28.5 million;<BR>E-195: $47.0 million<ref>[http://www.flightglobal.com/news/articles/analysis-lessors-spurn-cseries-overtures-370412/]</ref>
+Embraer E-Jet family,1100,47000000,51.7,E-170: [[US$]]28.5 million;<BR>E-195: $47.0 million
 Curtiss-Wright CW-12,63,300000,0.01,""
 Dassault Balzac V,1,300000,0.0,|developed from = [[Dassault Mirage III]]
 Siren Edelweiss,52,300000,0.01,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
@@ -2750,7 +2751,7 @@ Caspar C 32,4,300000,0.0,""
 Sablatnig SF-2,26,300000,0.0,""
 Bristol Biplane Type 'T',5,300000,0.0,|developed from=
 Aeromarine AMC,1,300000,0.0,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
-O'Neill Aristocraft II,1,300000,0.0,"[[US$]]35,950 for a kit minus engine in 1972  <!--Incremental or flyaway cost for military or retail price for commercial aircraft-->"
+O'Neill Aristocraft II,1,300000,0.0,"[[US$]]35,950 for a kit minus engine in 1972 <!--Incremental or flyaway cost for military or retail price for commercial aircraft-->"
 Waco Aristocraft,1,300000,0.0,""
 Carr Special,1,300000,0.0,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
 Ryan VZ-3 Vertiplane,1,300000,0.0,""
@@ -2780,7 +2781,7 @@ Airco DH.9A,1997,300000,0.59,""
 SET 10,2,300000,0.0,""
 Mitsubishi 2MB2,1,300000,0.0,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
 Dalotel DM-165,1,300000,0.0,""
-Taylorcraft F-21,43,300000,0.01,"$37,398  in 1991<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->"
+Taylorcraft F-21,43,300000,0.01,"$37,398 in 1991<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->"
 Sikorsky CH-54 Tarhe,105,300000,0.03,|developed from= 
 Altitude Radial Rocket,6,300000,0.0,"[[US$]]74,500 (RG model, kit only,2011)"
 Handley Page Gugnunc,1,300000,0.0,|variants with their own articles = 
@@ -2831,7 +2832,7 @@ Briffaud GB-10 Pou-Push,1,300000,0.0,<!--Incremental or flyaway cost for militar
 Gregor GR-1,1,300000,0.0,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
 Speedtwin E2E Comet 1,2,300000,0.0,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
 Aérospatiale SA 321 Super Frelon,110,300000,0.03,|developed from= [[SNCASE SE.3200 Frelon]]
-Bell AH-1 Cobra,1116,300000,0.33,US$11.3 million (1995) (AH-1 HueyCobra)<ref>[http://www.aeronautics.ru/nws002/military_aircraft_prices.htm Military aircraft prices]{{dead link|date=July 2011}}</ref>
+Bell AH-1 Cobra,1116,11300000,12.61,US$11.3 million (1995) (AH-1 HueyCobra)
 Viking Dragonfly,500,300000,0.15,"[[US$]]8,500 (kit, 1998)"
 Fleetwings 33,1,300000,0.0,""
 Hernandez Rapier 65,1,300000,0.0,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
@@ -2845,7 +2846,7 @@ Caudron C.440,1702,300000,0.51,""
 Akaflieg Stuttgart FS-26 Moseppl,1,300000,0.0,""
 Hatfield Little Bird,3,300000,0.0,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
 Lanier Paraplane Commuter 110,1,300000,0.0,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
-Airbus A320 family,6331,300000,1.89,"2014 prices:<br>A318: US$71.9&nbsp;(€53) million<ref name=""Airbus prices"">{{cite web |url = http://www.airbus.com/presscentre/corporate-information/key-documents/?eID=dam_frontend_push&docID=36716|format=PDF |title = Airbus aircraft 2014 average list prices|publisher=Airbus S.A.S |accessdate=1 February 2014}}</ref><br />A319: US$85.8&nbsp;(€64) million<ref name=""Airbus prices""/><br />A320: US$93.9&nbsp;(€70) million <ref name=""Airbus prices""/> <br />A321: US$110.1&nbsp;(€82) million<ref name=""Airbus prices""/>"
+Airbus A320 family,6331,110100000,697.04,"2014 prices:<br>A318: US$71.9 million<ref name=""Airbus prices"">{{cite web |url = http://www.airbus.com/presscentre/corporate-information/key-documents/?eID=dam_frontend_push&docID=36716|format=PDF |title = Airbus aircraft 2014 average list prices|publisher=Airbus S.A.S |accessdate=1 February 2014}}</ref><br />A319: US$85.8 million<ref name=""Airbus prices""/><br />A320: US$93.9 million <ref name=""Airbus prices""/> <br />A321: US$110.1 million<ref name=""Airbus prices""/>"
 Blériot-SPAD S.81,85,300000,0.02,""
 ANBO VIII,1,300000,0.0,""
 Bristol Buckingham,119,300000,0.03,|variants with their own articles= [[Bristol Brigand]]<br /> [[Bristol Buckmaster]]
@@ -2891,7 +2892,7 @@ Lombardi LM.5,7,300000,0.0,""
 Akaflieg Darmstadt D-40,1,300000,0.0,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
 Dornier Do 26,6,300000,0.0,|variants with their own articles=
 Aérospatiale Gazelle,1775,300000,0.53,"$198,500 (1973)<ref name=""fricker 72""/>"
-Fairchild Republic A-10 Thunderbolt II,716,300000,0.21,"US$11.8&nbsp;million (average, 1994 dollars)<ref>[http://www.au.af.mil/au/awc/awcgate/gao/nsiad97134/app_04.htm ""Operation Desert Storm: Evaluation of the Air Campaign, GAO/NSIAD-97-134 Appendix IV.""] ''U.S. General Accounting Office'', 12 June 1997. Retrieved 5 March 2010.</ref>"
+Fairchild Republic A-10 Thunderbolt II,716,11800000,8.44,"US$11.8 million (average, 1994 dollars)"
 Fletcher FBT-2,11,300000,0.0,""
 SNCAC NC.150,1,300000,0.0,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
 Dassault Mystère IV,411,300000,0.12,|developed from= [[Dassault Mystère]]
@@ -2909,7 +2910,7 @@ TeST TST-3 Alpin T,2,300000,0.0,"[[Euro|€]]22,880 (2004)<!--Incremental or fly
 Daimler L21,2,300000,0.0,""
 Pitcairn PA-3 Orowing,35,300000,0.01,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
 Douglas C-124 Globemaster II,448,300000,0.13,|developed from = [[Douglas C-74 Globemaster]]
-HAL Light Combat Helicopter,3,300000,0.0,US$17.48 million{{citation needed|date=June 2013}}
+HAL Light Combat Helicopter,3,17480000,0.05,US$17.48 million{{citation needed|date=June 2013}}
 CANSA FC.20,6,300000,0.0,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
 Hanriot H.110,1,300000,0.0,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
 Kawasaki OH-1,38,300000,0.01,|developed from =
@@ -2964,7 +2965,7 @@ Bristol Gordon England biplanes,5,300000,0.0,""
 Cessna Citation II,940,300000,0.28,|developed from = [[Cessna Citation I]]
 Creative Flight Aerocat,2011,300000,0.6,"$119,000 single engine kit, $124,000 twin engine kit (2009) <!--Incremental or flyaway cost for military or retail price for commercial aircraft-->"
 Mitsubishi RP-1,1,300000,0.0,""
-Northrop Grumman B-2 Spirit,21,737000000,15.47,"$737&nbsp;million (1997 approx. [[flyaway cost]])<ref name=Gao/><!-- This is the approximate flyaway cost, which is what is listed for military aircraft per [[WP:Air/PC]] guidelines. -->"
+Northrop Grumman B-2 Spirit,21,737000000,15.47,"$737 million (1997 approx. [[flyaway cost]])<ref name=Gao/><!-- This is the approximate flyaway cost, which is what is listed for military aircraft per [[WP:Air/PC]] guidelines. -->"
 Caproni Trento F-5,1,300000,0.0,""
 Airmaster H2-B1,1,300000,0.0,""
 Ambrosini SAI.3,10,300000,0.0,""
@@ -2977,10 +2978,10 @@ SIPA S.90,113,300000,0.03,|developed from=
 Blessing Rebell,1,300000,0.0,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
 Latécoère 550,1,300000,0.0,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
 Aérospatiale SA 330 Puma,697,300000,0.2,|developed from = <!-- the aircraft which formed the basis for the topic type -->
-Saab JAS 39 Gripen,247,300000,0.07,"US$ 68.90&nbsp;million (2006)<ref name=Gripen_costs/>{{#tag:ref|IHS Jane's reports the unit cost as between US$50 and $60 million (2008 dollars).<ref>{{cite web |last= Caffrey |first= Craig |url= http://www.janes.com/products/janes/defence-security-report.aspx?id=1065926038 |type= analysis |contribution= Why 2009 could be the year of the Gripen |publisher= Jane's Information Group |date= 11 June 2008 |title= Defence, security report |archive-url= http://web.archive.org/web/20120916123425/http://www.janes.com/products/janes/defence-security-report.aspx?id=1065926038 |archive-date= 16 September 2012}}</ref>|group= ""Nb"" |name= unit_cost}}"
+Saab JAS 39 Gripen,247,300000,0.07,"US$ 68.90 million (2006)<ref name=Gripen_costs/>{{#tag:ref|IHS Jane's reports the unit cost as between US$50 and $60 million (2008 dollars).|group= ""Nb"" |name= unit_cost}}"
 Kharkov KhAI-5,500,300000,0.15,""
 Nakajima B5N,1149,300000,0.34,|variants with their own articles=
-Lockheed F-104 Starfighter,2578,300000,0.77,"US$1.42&nbsp;million (F-104G)<ref name=""Knaack"">Knaack 1978.</ref>"
+Lockheed F-104 Starfighter,2578,1420000,3.66,"US$1.42 million (F-104G)<ref name=""Knaack"">Knaack 1978.</ref>"
 Dassault Super Mystère,180,300000,0.05,|variants with their own articles=
 Aichi D3A,1486,300000,0.44,|variants with their own articles=
 Armstrong Whitworth Apollo,2,300000,0.0,""
@@ -3030,7 +3031,7 @@ Pilatus P-4,1,300000,0.0,""
 Blériot 127,44,300000,0.01,""
 Handley Page Type E,1,300000,0.0,""
 Bell XV-15,2,300000,0.0,|developed from= 
-Hawker 4000,180,300000,0.05,"US$22.4 million (As of 2011<ref>{{cite news |url=http://www.flyingmag.com/aircraft/jets/hawker-4000?page=0,0 |title=Hawker 4000, p. 6, Robert Goyer |date=October 26, 2011 | work=Flying}}</ref>)"
+Hawker 4000,180,22400000,4.03,US$22.4 million (As of 2011)
 Christmas Bullet,2,300000,0.0,""
 Boeing Model 2,56,300000,0.01,|developed from=
 Travel Air 6000,150,300000,0.04,""
@@ -3040,7 +3041,7 @@ Morane-Saulnier Alcyon,208,300000,0.06,""
 PZL W-3 Sokół,149,300000,0.04,|variants with their own articles =
 Radioplane OQ-2,15000,300000,4.5,""
 Douglas A-20 Havoc,7478,300000,2.24,|developed from=
-Bell Boeing V-22 Osprey,200,300000,0.06,"MV-22: US$69.3 million ([[flyaway cost]] for FY2012)<ref name=NavyFY13>[http://www.finance.hq.navy.mil/fmb/13pres/APN_BA1-4_BOOK.pdf ""Department of Defense, Fiscal Year (FY) 2013 President's Budget Submission, Aircraft Procurement, Navy, Vol. 1–57.""] ''U.S. Department of the Navy,'' February 2012. Retrieved: 10 May 2013.</ref>"
+Bell Boeing V-22 Osprey,200,69300000,13.86,"MV-22: US$69.3 million ([[flyaway cost]] for FY2012)<ref name=NavyFY13>[http://www.finance.hq.navy.mil/fmb/13pres/APN_BA1-4_BOOK.pdf ""Department of Defense, Fiscal Year (FY) 2013 President's Budget Submission, Aircraft Procurement, Navy, Vol. 1–57.""] ''U.S. Department of the Navy,'' February 2012. Retrieved: 10 May 2013.</ref>"
 Rockwell XFV-12,1,300000,0.0,|primary user= [[United States Navy]]
 Heinkel HD 28,1,300000,0.0,""
 Grumman American AA-5,3282,300000,0.98,|variants with their own articles=
@@ -3058,7 +3059,7 @@ Dassault Falcon 20,508,300000,0.15,|developed from =
 Kawasaki KH-4,211,300000,0.06,""
 Sikorsky HH-52 Seaguard,175,300000,0.05,|variants with their own articles=
 Salmson 2,3200,300000,0.96,|variants with their own articles= 
-Aerosport Rail,175,300000,0.05,"[[US$]]2,495 in 1971<ref>{{cite journal|magazine=Air Progress|date=November 1971|page=27}}</ref>"
+Aerosport Rail,175,300000,0.05,"[[US$]]2,495 in 1971"
 Fairchild FC-2,180,300000,0.05,""
 Morane-Saulnier MS.570,10,300000,0.0,""
 Piaggio P.136,63,300000,0.01,""
@@ -3072,7 +3073,7 @@ Northrop YF-17,2,300000,0.0,|developed from =
 Potez 75,1,300000,0.0,""
 DFS Weihe,400,300000,0.12,| developed from= 
 Blanchard BB-1,1,300000,0.0,""
-Bell 407,1082,300000,0.32,US$2.54 million (2009)<ref name=Bell_407_JAWA/>
+Bell 407,1082,2540000,2.74,US$2.54 million (2009)<ref name=Bell_407_JAWA/>
 Weatherly 201,100,300000,0.03,"$58,000 (1979) <ref name=""Field p1183""> Field 1979, p.1183.</ref>"
 Fairey Ferret,3,300000,0.0,""
 Dassault Falcon 5X,0,45000000,0.0,"[[United States dollar|US$]]45 million<ref name=""Aviation Week"" /> "
@@ -3151,10 +3152,9 @@ Hughes D-2,1,300000,0.0,""
 Caudron Type J,3,300000,0.0,""
 Mono Aircraft Monoprep,68,300000,0.02,""
 Albatros Al 101,71,300000,0.02,""
-Beechcraft Queen Air,930,300000,0.27,"$135,000 (Model 80 in 1962)<ref>{{cite journal|magazine=Flying Magazine|date=November 2012|page=23}}</ref><br />"
+Beechcraft Queen Air,930,300000,0.27,"$135,000 (Model 80 in 1962)<br />"
 Kharkov KhAI-1,45,300000,0.01,""
 Kubicek AV-1,1,300000,0.0,""
-Antonov_An-2,18000,300000,5.4,|developed from=
 Bensen Mid-Jet,1,300000,0.0,""
 AAI RQ-2 Pioneer,175,300000,0.05,""
 Birdman Chinook,1100,300000,0.33,"[[C$]]21,170 (Kit price, 2011)"
@@ -3164,7 +3164,7 @@ Savoia-Marchetti S.59,240,300000,0.07,""
 Nieuport-Delage NiD 43,1,300000,0.0,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
 Sequoia Falco,90,300000,0.02,"[[US$]]70,000 (kit, 1998)<ref name=""Aerocrafter"">Purdy, Don: ''AeroCrafter - Homebuilt Aircraft Sourcebook, Fifth Edition'', page 251. BAI Communications, 15 July 1998. ISBN 0-9636409-4-1</ref>"
 Nieuport-Delage NiD 29,250,300000,0.07,""
-Sukhoi Superjet 100,83,300000,0.02,US$ 35.4 Base; 36.2 LR&nbsp;million<ref>{{cite web|url=http://www.aviaport.ru/digest/2012/02/17/229862.html |title=Трансаэро купит шесть самолетов Сухой Суперджет 100|publisher=''Avioport.ru''|date= |accessdate=2012-02-17}}</ref> 
+Sukhoi Superjet 100,83,300000,0.02,US$ 35.4 Base; 36.2 LR million 
 Mitsubishi G4M,2435,300000,0.73,}}
 Supermarine 525,1,300000,0.0,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
 Avro 539,1,300000,0.0,""
@@ -3185,7 +3185,7 @@ Skandinaviska Aero BHT-1 Beauty,1,300000,0.0,""
 FVA-4 Pipö,1,300000,0.0,""
 Kocjan Bąk,27,300000,0.0,""
 Travel Air 5000,10,300000,0.0,"$23,000 for Dole Race models in 1927<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->"
-Grigorovich M-5,300,300000,0.09,"|developed from=[[Grigorovich M-4]]<ref>Durkota, 1995, p.271</ref>"
+Grigorovich M-5,300,300000,0.09,|developed from=[[Grigorovich M-4]]
 Custer CCW-5,2,300000,0.0,"$55,000 in 1955 <ref name=""ReferenceA"">{{cite journal|magazine=Aviation Week|date=24 November 1958}}</ref> <!--Incremental or flyaway cost for military or retail price for commercial aircraft-->"
 Mikoyan MiG-35,3,300000,0.0,<!--Please include a verifiable source! Incremental or flyaway cost for military or retail price for commercial aircraft-->
 Indraéro Aéro 101,13,300000,0.0,""
@@ -3199,7 +3199,7 @@ Morane-Saulnier MS.755 Fleuret,1,300000,0.0,""
 SIPA S.1000 Coccinelle,3,300000,0.0,|developed from=
 Albatros L 100,1,300000,0.0,""
 Parnall Pike,1,300000,0.0,""
-Northrop AQM-35,25,300000,0.0,|developed from  = 
+Northrop AQM-35,25,300000,0.0,|developed from = 
 Fokker F.XXII,4,300000,0.0,""
 Grahame-White Bantam,3,300000,0.0,""
 Hall XPTBH,1,309000,0.0,"|program cost = $309,000 [[USD]]<ref name=""Trim""/>"
@@ -3214,8 +3214,8 @@ Culver Model V,378,300000,0.11,""
 Rider R-6,1,300000,0.0,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
 AD Seaplane Type 1000,2,300000,0.0,|variants with their own articles=
 Grumman HU-16 Albatross,466,300000,0.13,|developed from = 
-Mustang Aeronautics Midget Mustang,435,300000,0.13,approximately $2720 to build in 1971<ref>{{cite journal|magazine=Air Trails|date=Winter 1971|title=The true cost of building your own plane|author=Leo J. Kohn|page=63}}</ref>
-Sikorsky CH-53E Super Stallion,234,300000,0.07,"US$24.36 million (1992, avg. cost)"
+Mustang Aeronautics Midget Mustang,435,300000,0.13,approximately $2720 to build in 1971
+Sikorsky CH-53E Super Stallion,234,24360000,5.7,"US$24.36 million (1992, avg. cost)"
 CANT Z.1011,6,300000,0.0,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
 Focke-Wulf Fw 61,2,300000,0.0,|variants with their own articles=
 Rans S-9 Chaos,215,300000,0.06,"[[United States dollar|US$]]10,900 (base price 2010) less engine and instruments"
@@ -3223,7 +3223,7 @@ Cessna O-2 Skymaster,532,300000,0.15,|developed from= [[Cessna Skymaster]]
 Bell D-292,1,300000,0.0,""
 Westland Westbury,2,300000,0.0,""
 Vultee BT-13 Valiant,9525,300000,2.85,""
-General Atomics MQ-9 Reaper,104,300000,0.03,"US$16.9 million ([[flyaway cost]], 2013)<ref>[http://www.saffm.hq.af.mil/shared/media/document/AFD-120210-115.pdf ""Fiscal Year (FY) 2013 President's Budget Submission, Aircraft Procurement, Volume 1.""] ''U.S. Air Force'', February 2012.  p. Vol. 1–221.</ref>"
+General Atomics MQ-9 Reaper,104,16900000,1.75,"US$16.9 million ([[flyaway cost]], 2013)"
 Austin-Ball A.F.B.1,1,300000,0.0,""
 PIK-13,1,300000,0.0,""
 de Havilland DH.27 Derby,2,300000,0.0,""
@@ -3241,7 +3241,7 @@ Engineering Division XCO-6,2,300000,0.0,""
 Blackburn Pellet,1,300000,0.0,""
 Consolidated R2Y,1,300000,0.0,|developed from= [[Consolidated B-24 Liberator]]
 Watanabe E9W,35,300000,0.01,""
-Lockheed Martin VH-71 Kestrel,9,400000000,3.6,[[United States dollar|US$]]400&nbsp;million (average procurement cost)<ref name=WP_cost/>
+Lockheed Martin VH-71 Kestrel,9,400000000,3.6,[[United States dollar|US$]]400 million (average procurement cost)<ref name=WP_cost/>
 Blackburn Type E,2,300000,0.0,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
 Douglas DC-4,80,300000,0.02,|developed from = [[Douglas DC-4E]] 
 SNCAC NC.2001 Abeille,3,300000,0.0,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
@@ -3257,7 +3257,7 @@ Alpaero Choucas,2,300000,0.0,<!--Incremental or flyaway cost for military or ret
 Cvjetkovic CA-65,20,300000,0.0,""
 Douglas XFD,1,300000,0.0,""
 HAI Pegasus,16,300000,0.0,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
-Beagle Airedale,43,300000,0.01,"£4,750 (1961)<ref>''Flight'' (1961) p593</ref>"
+Beagle Airedale,43,300000,0.01,"£4,750 (1961)"
 PC-Flight Pretty Flight,5,300000,0.0,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
 Cessna 170,5174,300000,1.55,|variants with their own articles=[[O-1 Bird Dog]]<br/> [[Cessna 172]]
 Keystone XLB-3,1,300000,0.0,""
@@ -3286,7 +3286,7 @@ Mil Mi-17,12000,300000,3.6,Prices vary based on specifications (military and civ
 De Havilland Tiger Moth,8868,300000,2.66,|variants with their own articles = [[Thruxton Jackaroo]]
 Grahame-White G.W.E.7,1,300000,0.0,""
 Nanchang Q-5,1300,300000,0.39,|primary user= [[People's Liberation Army Air Force|PLA Air Force]]
-Eurofighter Typhoon,418,90000000,37.62,"€90&nbsp;million (system cost Tranche 3A)<ref name=""kunden"" /><br>£125m (including development + production costs)<ref>[http://www.nao.org.uk/report/management-of-the-typhoon-project/ ""Management of the Typhoon Project.""]  ''National Audit Office, United Kingdom,'' March 2011.</ref>"
+Eurofighter Typhoon,418,90000000,37.62,"€90 million (system cost Tranche 3A)<ref name=""kunden"" /><br>£125m (including development + production costs)"
 Cessna 180,6193,300000,1.85,|variants with their own articles=[[Cessna 182]]<br/>[[Cessna 185]]<br />[[St-Just Cyclone]]<br />[[St-Just Super-Cyclone]]
 IAR-23,1,300000,0.0,""
 Heinkel HD 38,12,300000,0.0,""
@@ -3307,7 +3307,7 @@ Dyn'Aéro CR.100,17,300000,0.0,<!--Incremental or flyaway cost for military or r
 Beriev Be-12,143,300000,0.04,|developed from=[[Beriev Be-6]]
 Farman F.110,50,300000,0.01,""
 Eagle Aircraft Eagle,95,300000,0.02,""
-Bayraktar Mini UAV,500,300000,0.15,| developed from                   = 
+Bayraktar Mini UAV,500,300000,0.15,| developed from = 
 Bernard 82,2,300000,0.0,""
 Royal Aircraft Factory F.E.9,3,300000,0.0,""
 Dornier Do 635,0,300000,0.0,|developed from= [[Dornier Do 335]]
@@ -3322,7 +3322,7 @@ Antonov An-22,68,300000,0.02,|variants with their own articles=
 Junkers A 35,186,300000,0.05,|developed from=
 Fournier RF-4,159,300000,0.04,""
 Union G.I,2,300000,0.0,""
-Bombardier Dash 8,1142,300000,0.34,"Q100 US$13 million <br />Q200 US$13 million <br />Q300 US$17 million <br />Q400 US$35 million<ref name=deagle>[http://www.deagel.com/Turboprop-Airliners/Q400_a000086004.aspx ""Production and cost information.""] ''Deagle.com''. Retrieved: December 24, 2009.</ref>"
+Bombardier Dash 8,1142,35000000,39.97,"Q100 US$13 million <br />Q200 US$13 million <br />Q300 US$17 million <br />Q400 US$35 million<ref name=deagle>[http://www.deagel.com/Turboprop-Airliners/Q400_a000086004.aspx ""Production and cost information.""] ''Deagle.com''. Retrieved: December 24, 2009.</ref>"
 Curtiss XP-62,1,300000,0.0,|variants with their own articles=
 Scottish Aeroplane Syndicate Avis,5,300000,0.0,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
 Grumman F9F Panther,1382,300000,0.41,|variants with their own articles = 
@@ -3355,7 +3355,7 @@ Vickers Venom,1,300000,0.0,""
 Dallach Sunwheel,48,300000,0.01,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
 Pilatus P-1,0,300000,0.0,""
 Rans S-10 Sakota,215,300000,0.06,"[[United States dollar|US$]]19,300 (base price 2010) less engine and instruments"
-Falconar AMF-S14 Super Maranda,95,300000,0.02,"approximately $2850 to build in 1985<ref>{{cite book|title=Basic Guide to Flying|author=Paul Fillingham, Blanton|page=175}}</ref>"
+Falconar AMF-S14 Super Maranda,95,300000,0.02,approximately $2850 to build in 1985
 Letov Š-22,1,300000,0.0,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
 Bristol Racing Biplane,1,300000,0.0,""
 Auster Avis,2,300000,0.0,""
@@ -3383,7 +3383,7 @@ Sikorsky S-67 Blackhawk,1,300000,0.0,|developed from= [[Sikorsky SH-3 Sea King]]
 Linke-Hofmann R.II,2,300000,0.0,""
 Short Valetta,1,300000,0.0,""
 Flying K Sky Raider,50,300000,0.01,| developed from=[[Denney Kitfox]]
-Boeing KC-767,11,300000,0.0,~US$145 million
+Boeing KC-767,11,145000000,1.59,~US$145 million
 Arup S-3,1,300000,0.0,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
 Schleicher Rhönadler,35,300000,0.01,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
 Pöschel Equator,3,300000,0.0,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
@@ -3465,7 +3465,7 @@ Caproni Ca.125,2,300000,0.0,<!--Incremental or flyaway cost for military or reta
 Arado SD I,2,300000,0.0,""
 Airco DH.3,2,300000,0.0,""
 Scheibe Falke,1200,300000,0.36,""
-Omega BS-12,4,300000,0.0,$7500 in 1958<ref>{{cite journal|magazine=Flight vol 47|date=1958}}</ref><!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
+Omega BS-12,4,300000,0.0,$7500 in 1958<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
 Akaflieg München Mü9,1,300000,0.0,""
 Andrews A1,1,300000,0.0,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
 Schneider ES-59,10,300000,0.0,""
@@ -3478,7 +3478,7 @@ Gee Bee Q.E.D.,1,300000,0.0,| developed from=[[Gee Bee R-5]]
 Dassault Mirage IV,62,300000,0.01,|developed from = [[Dassault Mirage III]]
 Alpha J-5 Marco,20,300000,0.0,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
 Airdrome Sopwith Pup,1,300000,0.0,"[[US$]]12,995 (kit less engine and instruments, 2011)"
-Focke-Achgelis Fa 284,0,300000,0.0,|developed from  = 
+Focke-Achgelis Fa 284,0,300000,0.0,|developed from = 
 World Aircraft Vision,2,300000,0.0,"[[US$]]89,500 (assembled, 2014)"
 Caspar C 35,1,300000,0.0,""
 AGO S.I,2,300000,0.0,""
@@ -3487,7 +3487,7 @@ Fairchild XNQ,2,300000,0.0,|developed from=
 PTO-4,8,300000,0.0,|variants with their own articles=
 Sopwith Bat Boat,6,300000,0.0,""
 SIPA S.300,1,300000,0.0,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
-D'Apuzzo Senior Aero Sport,32,300000,0.0,$9500 in 1971<ref>{{cite journal|magazine=Air Trails|date=Winter 1971|page=8}}</ref>
+D'Apuzzo Senior Aero Sport,32,300000,0.0,$9500 in 1971
 AAI RQ-7 Shadow,100,15500000,1.55,"Per system: {{US$|link=yes|15.5 million}} (2011 dollars<ref name=aeroweb>{{cite web|title=About the RQ-7 Shadow|url=http://www.bga-aeroweb.com/Defense/RQ-7-Shadow.html|author=Joakim Kasper Oestergaard|publisher=Aeroweb|date=September 30, 2013|accessdate=April 4, 2014}}</ref><br>Per aircraft: {{US$|750,000.00}} (2011 dollars)<ref name=aeroweb/>"
 AISA I-11,410,300000,0.12,""
 Cody Floatplane,1,300000,0.0,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
@@ -3532,7 +3532,7 @@ Skyfox Aviation Skyfox,100,300000,0.03,""
 Blériot-SPAD S.51,60,300000,0.01,""
 LFG Roland D.IV,1,300000,0.0,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
 Aeromarine EO,1,300000,0.0,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
-Grumman F-14 Tomcat,712,38000000,27.05,[[United States dollar|US$]]38&nbsp;million (1998)
+Grumman F-14 Tomcat,712,38000000,27.05,[[United States dollar|US$]]38 million (1998)
 Rubik R-26 Góbé,195,300000,0.05,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
 Schleicher ASW 12,15,300000,0.0,""
 Saqr (drone),38,300000,0.01,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
@@ -3637,9 +3637,9 @@ Eklund TE-1,1,300000,0.0,""
 Dart Kitten,4,300000,0.0,""
 Albatros J.I,240,300000,0.07,""
 Robin DR.200,348,300000,0.1,""
-Antonov An-140,33,300000,0.0,US$9 million<ref name=brahmand>{{cite web|title=Russia to procure seven Antonov 140 aircraft from Ukraine|url=http://www.brahmand.com/news/Russia-to-procure-seven-Antonov-140-aircraft-from-Ukraine/7011/1/24.html|website=brahmand.com|accessdate=11 August 2014}}</ref>
+Antonov An-140,33,9000000,0.29,US$9 million<ref name=brahmand>{{cite web|title=Russia to procure seven Antonov 140 aircraft from Ukraine|url=http://www.brahmand.com/news/Russia-to-procure-seven-Antonov-140-aircraft-from-Ukraine/7011/1/24.html|website=brahmand.com|accessdate=11 August 2014}}</ref>
 Antonov An-225 Mriya,1,300000,0.0,|developed from= [[Antonov An-124]]
-Percival P.74,1,300000,0.0,|developed from =  
+Percival P.74,1,300000,0.0,|developed from = 
 Rolladen-Schneider LS8,491,300000,0.14,""
 Nakajima Ki-87,1,300000,0.0,|variants with their own articles=
 Moynet Jupiter,2,300000,0.0,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
@@ -3664,10 +3664,10 @@ Short 330,330,300000,0.09,|developed from = [[Short Skyvan]]
 Texas-Temple Sportsman,3,300000,0.0,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
 Spijker V.2,78,300000,0.02,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
 Dietz C-4,1,300000,0.0,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
-Airbus A340,377,300000,0.11,"US$275.4&nbsp;million (£168.25 million or €190 million) (2011)<ref name=""A_price""/>"
+Airbus A340,377,275400000,103.82,"US$275.4 million (£168.25 million or €190 million) (2011)<ref name=""A_price""/>"
 Dornier Do J,250,300000,0.07,|variants with their own articles=
 Robinson R66,500,839000,0.41,"$839,000<ref name=rebound/><ref name=price>[http://www.robinsonheli.com/price_lists_eocs/r66_pricelist.pdf R66 turbine 2013 price list] ''[[Robinson Helicopter Company]]'', 7 February 2014. Accessed: 3 May 2014.</ref>"
-Nord CT41,62,300000,0.01,|developed from  = 
+Nord CT41,62,300000,0.01,|developed from = 
 Avro 510,6,300000,0.0,""
 Rainbow Skyreach Bush Cat,30,300000,0.0,$49995-64500 USD SLSA
 Bristol Bullpup,1,300000,0.0,""
@@ -3696,7 +3696,7 @@ Saunders ST-27,12,300000,0.0,|developed from=[[de Havilland Heron]]
 Rogožarski Brucoš,1,300000,0.0,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
 Belyayev DB-LK,1,300000,0.0,""
 Albatros C.VII,600,300000,0.18,""
-Beechcraft Model 18,9000,300000,2.7,"D18S: US$78,050 in 1952<ref name=""BHMD18S"">[http://beechcraftheritage.com/collection/N4477.php  ""D18S page.""] ''Beechcraft Heritage Museum''. Retrieved: August 24, 2008.</ref>"
+Beechcraft Model 18,9000,300000,2.7,"D18S: US$78,050 in 1952<ref name=""BHMD18S"">[http://beechcraftheritage.com/collection/N4477.php ""D18S page.""] ''Beechcraft Heritage Museum''. Retrieved: August 24, 2008.</ref>"
 Koshiki-2 Experimental Fighter,2,300000,0.0,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
 Murphy Renegade,590,300000,0.17,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
 AAI Sparrowhawk,125,300000,0.03,"$45,400 for Sparrowhawk III kit in 2008"
@@ -3707,14 +3707,14 @@ Dornier Libelle,2,300000,0.0,""
 Rohrbach Ro II,1,300000,0.0,""
 Mosquito Aviation XE,37,300000,0.01,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
 Norman Aviation Nordic VI,256,300000,0.07,""
-Boeing 747,1500,300000,0.45,"747-100: US$24&nbsp;million (1967) <br />747-200: US$39&nbsp;million (1976) <br />747-300: US$83&nbsp;million (1982) <br />747-400: US$228–260&nbsp;million (2007)<br />747-8I: US$351.4&nbsp;million<ref name=prices>[http://www.boeing.com/commercial/prices/ ""Boeing Commercial Airplanes prices.""] ''The Boeing Company''. Retrieved: August 8, 2012.</ref><br />747-8F: US$352&nbsp;million"
+Boeing 747,1500,352000000,528.0,"747-100: US$24 million (1967) <br />747-200: US$39 million (1976) <br />747-300: US$83 million (1982) <br />747-400: US$228–260 million (2007)<br />747-8I: US$351.4 million<ref name=prices>[http://www.boeing.com/commercial/prices/ ""Boeing Commercial Airplanes prices.""] ''The Boeing Company''. Retrieved: August 8, 2012.</ref><br />747-8F: US$352 million"
 Junkers K 16,17,300000,0.0,""
 Arado S I,3,300000,0.0,""
 Koolhoven F.K.46,13,300000,0.0,""
 Loire 30,1,300000,0.0,""
 EDRA Aeronautica Super Pétrel,214,300000,0.06,"2008 prices for Super Pétrel in US$:<br/>28,980 kit<br/>68,000 flyaway"
 Arado L II,5,300000,0.0,""
-Davis DA-2,45,300000,0.01,$2300 in 1971<ref>{{cite journal|magazine=Air Trails|date=Winter 1971|page=18}}</ref>
+Davis DA-2,45,300000,0.01,$2300 in 1971
 Wing Derringer,12,300000,0.0,""
 RemSchetMash Robust,1,300000,0.0,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
 Fairchild F-46,1,300000,0.0,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
@@ -3760,7 +3760,7 @@ BAE Systems Hawk,1000,18000000,18.0,{{GB£|18 million}} (2003)
 Siemens-Schuckert D.VI,2,300000,0.0,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
 Akaflieg Braunschweig SB-8,2,300000,0.0,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
 Velocity V-Twin,1,300000,0.0,"$110,000 for a fast-built kit in 2012, $271,000 total build cost.<ref name=""KitplanesDec2012"" />"
-CZAW SportCruiser,400,300000,0.12,"[[USD]]$119,000 - $139,000 (2010)<ref>Rusty Bogue: Best In Flight 15551 Airport Rd Paris,IL 61944</ref>"
+CZAW SportCruiser,400,300000,0.12,"[[USD]]$119,000 - $139,000 (2010)"
 Fairey Jet Gyrodyne,1,300000,0.0,|developed from= [[Fairey FB-1 Gyrodyne]]
 Just Escapade,230,300000,0.06,"Escapade, 2010, plus tax:"
 Avia BH-22,30,300000,0.0,""
@@ -3800,13 +3800,13 @@ Renard R.17,1,300000,0.0,""
 Rolladen-Schneider LS1,464,300000,0.13,""
 Morane-Saulnier AR,400,300000,0.12,""
 AeroAndina MXP-1000 Tayrona,26,300000,0.0,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
-Northrop T-38 Talon,1146,300000,0.34,"[[United States dollar|US$]]756,000 (1961 [[constant dollars]])<br>US$5.879 million (2013 dollars)"
+Northrop T-38 Talon,1146,5879000,6.73,"[[United States dollar|US$]]756,000 (1961 [[constant dollars]])<br>US$5.879 million (2013 dollars)"
 Cox-Klemin TW-2,3,300000,0.0,""
 London and Provincial Fuselage Biplane,1,300000,0.0,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
 Handley Page H.P.22,3,300000,0.0,""
 Fokker Universal,44,300000,0.01,"1926 $14,200 (USD) <ref>[http://www.dmairfield.com/airplanes/NC3317/index.htm Fokker Universal NC3317]"
 LFG Roland D.I,20,300000,0.0,""
-Boeing 747-8,80,300000,0.02,"747-8F: US$356.9&nbsp;million<ref name=""prices""/> <br>747-8I: US$357.5&nbsp;million<ref name=prices>[http://www.boeing.com/commercial/prices/ Boeing Commercial Airplanes Jet Prices]. Boeing. Retrieved November 7, 2013.</ref>"
+Boeing 747-8,80,357500000,28.6,"747-8F: US$356.9 million<ref name=""prices""/> <br>747-8I: US$357.5 million<ref name=prices>[http://www.boeing.com/commercial/prices/ Boeing Commercial Airplanes Jet Prices]. Boeing. Retrieved November 7, 2013.</ref>"
 Alenia Aermacchi M-345,2,300000,0.0,|developed from = [[SIAI Marchetti S.211]]
 Belite Aircraft Superlite,10,300000,0.0,"$11,200 in 2011 for kit minus engine<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->"
 AME VI,20,300000,0.0,""
@@ -3823,7 +3823,7 @@ SAN Jodel D.150 Mascaret,62,300000,0.01,""
 Aerial Wheel Syndicate Monoplane,1,300000,0.0,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
 Handley Page Hinaidi,36,300000,0.01,|variants with their own articles = 
 Douglas Cloudster II,1,300000,0.0,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
-Consolidated C-87 Liberator Express,287,300000,0.08,|developed from =  [[B-24 Liberator]]
+Consolidated C-87 Liberator Express,287,300000,0.08,|developed from = [[B-24 Liberator]]
 Waco Mailplanes,6,300000,0.0,""
 Fiat G.46,223,300000,0.06,""
 Poberezny P-5 Pober Sport,1,300000,0.0,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
@@ -3871,7 +3871,7 @@ General Aircraft Monospar,45,300000,0.01,""
 St. Louis YPT-15,14,300000,0.0,|developed from= [[St. Louis PT-1W]]
 Comper Mouse,1,300000,0.0,""
 Wibault 210,2,300000,0.0,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
-Martin B-57 Canberra,403,300000,0.12,"US$1.26 million (B-57B)<ref name=""knaack"">Knaack 1988</ref>"
+Martin B-57 Canberra,403,1260000,0.5,"US$1.26 million (B-57B)<ref name=""knaack"">Knaack 1988</ref>"
 Curtiss Kingbird,19,300000,0.0,"$25,555<ref name=""BowersCurtissp387""/>"
 Letov Š-16,89,300000,0.02,|developed from=
 Kelly-D,20,300000,0.0,"[[US$]]150.00 (plans only, 1998)"
@@ -3892,7 +3892,7 @@ Aeronca Chief family,13700,300000,4.11,"$1,695 in 1939 (50C Chief)<ref name=""Ae
 Dätwyler Trailer,1,300000,0.0,""
 Burgess Model H,7,300000,0.0,""
 Yokosuka P1Y,1102,300000,0.33,""
-Sukhoi Su-25,1000,11000000,11.0,"{{US$|link=yes}}11&nbsp;million<ref name=""gordondawes"" />"
+Sukhoi Su-25,1000,11000000,11.0,"{{US$|link=yes}}11 million<ref name=""gordondawes"" />"
 Aero A.10,5,300000,0.0,|variants with their own articles=
 Fiat B.R.,250,300000,0.07,""
 Bristol Belvedere,26,300000,0.0,|developed from=[[Bristol Type 173]]
@@ -3907,7 +3907,7 @@ Antonov A-2,2300,300000,0.69,""
 Coupé-Aviation JC-01,15,300000,0.0,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
 SAN Jodel D.140 Mousquetaire,243,300000,0.07,""
 Abbott-Baynes Scud 2,5,300000,0.0,£150 ex-works 1932
-Dassault Mirage 2000,601,300000,0.18,US$23&nbsp;million
+Dassault Mirage 2000,601,23000000,13.82,US$23 million
 LVG G.III,1,300000,0.0,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
 Naval Aircraft Factory XN5N,1,300000,0.0,|variants with their own articles=
 Driggs-Johnson DJ-1 Bumblebee,2,300000,0.0,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
@@ -3929,13 +3929,13 @@ Boeing XPBB Sea Ranger,1,300000,0.0,|variants with their own articles=
 Brochet MB.110,2,300000,0.0,""
 Fokker F.IX,18,300000,0.0,""
 Rogožarski SIM-XII-H,9,300000,0.0,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
-Ilyushin Il-76,960,300000,0.28,""
+Ilyushin Il-76,960,50000000.0,48.0,""
 Douglas F5D Skylancer,4,300000,0.0,|developed from=[[Douglas F4D Skyray]] 
 Martin AM Mauler,151,300000,0.04,|variants with their own articles=
 Flettner Gigant,1,300000,0.0,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
 Westland Wizard,1,300000,0.0,""
 AVIA FL.3,335,300000,0.1,""
-Aerojet SD-2 Overseer,35,300000,0.01,|developed from  = 
+Aerojet SD-2 Overseer,35,300000,0.01,|developed from = 
 BFW M.26,1,300000,0.0,""
 Nicholas-Beazley NB-3,20,300000,0.0,"$3,600 in 1930 <!--Incremental or flyaway cost for military or retail price for commercial aircraft-->"
 Zeppelin-Lindau Rs.III,1,300000,0.0,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
@@ -3978,7 +3978,7 @@ Howard 500,22,300000,0.0,""
 Junkers T 19,3,300000,0.0,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
 Latécoère 14,1,300000,0.0,""
 British Aerospace 125,1600,12995000,20.79,"£150,000 (1962)<ref name = ""flight 902""/><br /> $12,995,000 (1995)<ref name = ""pilot report"">George, Fred. [http://d16bsf97ryvc45.cloudfront.net/Media/2013/01/hawker_1000.pdf ""Update: The Improved Hawker 1000.""] ''Pilot Report'', March 1995. 3300. pp. 1-7.</ref>"
-McDonnell Douglas KC-10 Extender,10,300000,0.0,KC-10: {{US$|88.4|link=yes}}&nbsp;million (FY1998)<ref name=USAF_factht/>
+McDonnell Douglas KC-10 Extender,10,300000,0.0,KC-10: {{US$|88.4|link=yes}} million (FY1998)<ref name=USAF_factht/>
 Nakajima LB-2,1,300000,0.0,""
 FMA 20 El Boyero,131,300000,0.03,""
 Loening OL,165,300000,0.04,""
@@ -4021,7 +4021,7 @@ Ikarus 214,20,300000,0.0,""
 Team Tango Foxtrot,3,300000,0.0,"[[US$]]45,750 (less engine, 2011)"
 Osprey Osprey 2,500,300000,0.15,""
 Arado SC II,10,300000,0.0,""
-Convair B-58 Hustler,116,12440000,1.44,"{{US$|link=yes}}12.44&nbsp;million<ref name=""knaack"">Knaack, Marcelle Size. ''Post-World War II bombers, 1945-1973''. Washington, DC: Office of Air Force History, 1988. ISBN 0-16-002260-6.</ref>"
+Convair B-58 Hustler,116,12440000,1.44,"{{US$|link=yes}}12.44 million<ref name=""knaack"">Knaack, Marcelle Size. ''Post-World War II bombers, 1945-1973''. Washington, DC: Office of Air Force History, 1988. ISBN 0-16-002260-6.</ref>"
 Rolladen-Schneider LS3,429,300000,0.12,""
 Weatherly 620,155,300000,0.04,|variants with their own articles=
 Rose Parakeet,8,300000,0.0,""
@@ -4090,7 +4090,7 @@ Comte AC-8,3,300000,0.0,""
 CNNA HL-6,60,300000,0.01,""
 Avia BH-28,1,300000,0.0,""
 Beechcraft Bonanza,17000,700000,11.9,"≈[[United States Dollar|US$]]700,000 (2006)"
-Kaman SH-2 Seasprite,184,300000,0.05,SH-2F: US$16 million
+Kaman SH-2 Seasprite,184,16000000,2.94,SH-2F: US$16 million
 Tupolev Tu-1,1,300000,0.0,""
 Bernard H.52,2,300000,0.0,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
 Bölkow Phoebus,250,300000,0.07,| developed from= 
@@ -4115,7 +4115,7 @@ Sukhoi Su-37,2,300000,0.0,|developed from= [[Sukhoi Su-35]]
 Gidroplan Tsikada,6,300000,0.0,"(Sky Wind-1, 2009) €59,000"
 Féré F.3,1,300000,0.0,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
 Dassault Mirage 4000,1,300000,0.0,|developed from = [[Dassault Mirage 2000]]
-Boeing 737,8305,300000,2.49,"737-100: [[United States dollar|US$]]32 million{{sfn|Bowers|1989|p=495|ps=}} <br />737-600: US$59.4&nbsp;million <br />737-700: US$78.3&nbsp;million<ref name=prices>{{cite web|title=Commercial Airplanes – Jet Prices|url=http://www.boeing.com/boeing/commercial/prices/|website=www.boeing.com|publisher=Boeing|accessdate=October 29, 2014}}</ref> <br />737-800: US$93.3&nbsp;million<ref name=prices/> <br />737-900ER: US$99.0&nbsp;million<ref name=prices/>"
+Boeing 737,8305,99000000,822.19,"737-100: [[United States dollar|US$]]32 million{{sfn|Bowers|1989|p=495|ps=}} <br />737-600: US$59.4 million <br />737-700: US$78.3 million<ref name=prices>{{cite web|title=Commercial Airplanes – Jet Prices|url=http://www.boeing.com/boeing/commercial/prices/|website=www.boeing.com|publisher=Boeing|accessdate=October 29, 2014}}</ref> <br />737-800: US$93.3 million<ref name=prices/> <br />737-900ER: US$99.0 million<ref name=prices/>"
 Morane-Saulnier MS.603,3,300000,0.0,<!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
 Kamov Ka-31,35,23000000,0.8,$23 million (1999 rates)
 Stampe et Vertongen RSV.26,17,300000,0.0,""
@@ -4166,7 +4166,7 @@ PWS-14,23,300000,0.0,""
 Austin Osprey,1,300000,0.0,""
 Bristol BX-200,1,300000,0.0,""
 Letov Š-4,20,300000,0.0,|variants with their own articles =
-AgustaWestland AW119 Koala,91,1850000,0.16,"$USD 1.85 million in 2000<ref name=""flug-revue.rotor.com"">{{cite web | title = Flug Revue| url = http://www.flug-revue.rotor.com/FRtypen/FRA119Ko.htm  | accessdate = 2007-05-20 | archiveurl= http://web.archive.org/web/20070615030031/http://www.flug-revue.rotor.com/FRTypen/FRA119Ko.htm| archivedate= 15 June 2007 <!--DASHBot-->| deadurl= no}}</ref>"
+AgustaWestland AW119 Koala,91,1850000,0.16,"$USD 1.85 million in 2000<ref name=""flug-revue.rotor.com"">{{cite web | title = Flug Revue| url = http://www.flug-revue.rotor.com/FRtypen/FRA119Ko.htm | accessdate = 2007-05-20 | archiveurl= http://web.archive.org/web/20070615030031/http://www.flug-revue.rotor.com/FRTypen/FRA119Ko.htm| archivedate= 15 June 2007 <!--DASHBot-->| deadurl= no}}</ref>"
 SPCA 40T,3,300000,0.0,""
 Sikorsky S-34,1,300000,0.0,""
 Dorna Parandeh Abi,28,300000,0.0,"[[Euro|€]]115,000 (2011)<ref name=""WDLA11"">Bayerl, Robby; Martin Berkemeier; et al: ''World Directory of Leisure Aviation 2011-12'', page 165. WDLA UK, Lancaster UK, 2011. ISSN 1368-485X</ref>"
@@ -4186,8 +4186,8 @@ Boeing YB-9,7,300000,0.0,|developed from=[[Boeing Monomail]]
 Handley Page HP.115,1,300000,0.0,|variants with their own articles=
 Akaflieg München Mü5 Wastl,1,300000,0.0,""
 General Aviation PJ,5,300000,0.0,""
-Kamov Ka-50,50,500000000,25.0,"500 million rubles (approx. $16&nbsp;million) as of May 2011<ref name=""AO"">[http://www.aex.ru/news/2011/5/24/85330/ Вертолеты Ка-52 начали службу в Дальневосточном объединении ВВС и ПВО<!-- Bot generated title -->]</ref>"
-Ace Baby Ace,453,300000,0.13,"$1095 for a A-40 engined model in 1935, approximately $2750 to build in 1971<ref>{{cite journal|magazine=Air Trails|date=Winter 1971|title=The true cost of building your own plane|author=Leo J. Kohn|page=63}}</ref>"
+Kamov Ka-50,50,16000000,0.8,"500 million rubles (approx. $16 million) as of May 2011<ref name=""AO"">[http://www.aex.ru/news/2011/5/24/85330/ Вертолеты Ка-52 начали службу в Дальневосточном объединении ВВС и ПВО<!-- Bot generated title -->]</ref>"
+Ace Baby Ace,453,300000,0.13,"$1095 for a A-40 engined model in 1935, approximately $2750 to build in 1971"
 De Havilland DH.15,1,300000,0.0,""
 Burnelli CB-16,1,300000,0.0,""
 PZL Kania,19,300000,0.0,|developed from= [[Mil Mi-2]]
