@@ -229,3 +229,18 @@
     medium range, turboprop airliners. Introduced by de Havilland
     Canada (DHC) in 1984, they are now produced by Bombardier
     Aerospace. Over 1,000 Dash 8s of all models have been built.
+
+- !ruby/object:Aircraft
+  name: McDonnell Douglas MD-11
+  picture: KLM_McDonnell_Douglas_MD-11_PH-KCK_Ingrid_Bergman.png
+  direction: left
+  length_ft: 201
+  pitch: 15
+  yaw: 10
+  description: >
+    The McDonnell Douglas MD-11 is a three-engine medium- to
+    long-range wide-body jet airliner, manufactured by McDonnell
+    Douglas and, later, by Boeing Commercial Airplanes. Based on the
+    DC-10, it features a stretched fuselage, increased wingspan with
+    winglets, refined airfoils on the wing and smaller tailplane, new
+    engines and increased use of composite materials.
