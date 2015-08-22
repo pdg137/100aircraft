@@ -110,3 +110,20 @@
     managed by the NATO Eurofighter and Tornado Management Agency,
     which also acts as the prime customer.
 
+
+- !ruby/object:Aircraft
+  name: Grumman A-6 Intruder
+  picture: A-6E_Intruder_VA-52.png
+  length_ft: 55
+  pitch: 0
+  yaw: 5
+  direction: left
+  description: >
+    The Grumman A-6 Intruder was an American, twin jet-engine,
+    mid-wing all-weather attack aircraft built by Grumman
+    Aerospace. In service with the U.S. Navy and U.S. Marine Corps
+    between 1963 and 1997, the Intruder was designed as an all-weather
+    medium attack aircraft to replace the piston-engined Douglas A-1
+    Skyraider. As the A-6E was slated for retirement, its precision
+    strike mission was taken over by the Grumman F-14 Tomcat equipped
+    with a LANTIRN pod.
