@@ -127,3 +127,23 @@
     Skyraider. As the A-6E was slated for retirement, its precision
     strike mission was taken over by the Grumman F-14 Tomcat equipped
     with a LANTIRN pod.
+
+- !ruby/object:Aircraft
+  name: Lockheed Martin F-22 Raptor
+  picture: Lockheed_Martin_F-22A_Raptor_JSOH.png
+  length_ft: 77 # 62 plus about 25%
+  pitch: 7
+  yaw: 0
+  direction: left
+  description: >
+    The Lockheed Martin F-22 Raptor is a single-seat, twin-engine, all
+    weather stealth tactical fighter aircraft developed for the United
+    States Air Force (USAF). The result of the USAF's Advanced
+    Tactical Fighter program, the aircraft was designed primarily as
+    an air superiority fighter, but has additional capabilities
+    including ground attack, electronic warfare, and signals
+    intelligence roles. Lockheed Martin is the prime contractor and
+    was responsible for the majority of the airframe, weapon systems,
+    and final assembly of the F-22, while program partner Boeing
+    provided the wings, aft fuselage, avionics integration, and
+    training systems.
