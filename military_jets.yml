@@ -5,6 +5,7 @@
   length_ft: 49
   pitch: -5
   yaw: 35
+  direction: left
   description: >
     The F-16 Fighting Falcon (also called the Viper) is an American
     light fighter. It can carry air missiles, ground missiles, and
@@ -19,6 +20,7 @@
   length_ft: 57
   pitch: 7
   yaw: 0
+  direction: left
   description: >
     The Mikoyan MiG-29 (Russian: Микоян МиГ-29) is a twin-engine jet
     fighter aircraft designed in the Soviet Union. Developed by the
@@ -33,6 +35,7 @@
   name: Hawker Hunter
   picture: Hawker_Hunter_F6A,_UK_-_Air_Force_AN2269812.png
   length_ft: 46
+  direction: left
   description: >
     The Hawker Hunter is a subsonic British jet aircraft developed in
     the 1950s. The single-seat Hunter entered service as a
@@ -49,6 +52,7 @@
   name: Mitsubishi A6M Zero
   picture: A6M3_Zero_N712Z_1.png
   length_ft: 30
+  direction: right
   description: >
     The Mitsubishi A6M Zero was a long-range fighter aircraft,
     manufactured by Mitsubishi Heavy Industries, and operated by the
@@ -60,3 +64,49 @@
     Imperial Navy. The official Allied reporting name was "Zeke",
     although the use of the name "Zero" was later commonly adopted by
     the Allies as well.
+
+- !ruby/object:Aircraft
+  name: Sukhoi Su-30
+  picture: Uganda_People's_Defence_Force_Air_Wing_Sukhoi_Su-30MK2_MTI-2.png
+  length_ft: 73
+  pitch: 0
+  yaw: 0
+  direction: left
+  description: >
+    The Sukhoi Su-30 (Russian: Сухой Су-30) is a twin-engine, two-seat
+    supermaneuverable fighter aircraft developed by Russia's Sukhoi
+    Aviation Corporation. It is a multirole fighter for all-weather,
+    air-to-air and air-to-surface deep interdiction missions.
+
+- !ruby/object:Aircraft
+  name: Sukhoi Su-24
+  picture: A_Sukhoi_Su-24MK_of_IRIAF_flighting_over_Shiraz.png
+  length_ft: 74
+  pitch: 5
+  yaw: 5
+  direction: left
+  description: >
+    The Sukhoi Su-24 is a supersonic, all-weather attack
+    aircraft/interdictor developed in the Soviet Union. This
+    variable-sweep wing, twin-engined side-by-side two-seater carried
+    the USSR's first integrated digital navigation/attack system.
+    It remains in service with former Soviet air forces and various
+    air forces to which it was exported.
+
+- !ruby/object:Aircraft
+  name: Eurofighter Typhoon
+  picture: RSAF_Typhoon_at_Malta_-_Gordon_Zammit.png
+  length_ft: 52
+  pitch: 5
+  yaw: 0
+  direction: left
+  description: >
+    The Eurofighter Typhoon is a twin-engine, canard-delta wing,
+    multirole fighter. The Typhoon was designed and is manufactured by
+    a consortium of three companies; Alenia Aermacchi, Airbus Group
+    and BAE Systems, who conduct the majority of affairs dealing with
+    the project through a joint holding company, Eurofighter
+    Jagdflugzeug GmbH, which was formed in 1986. The project is
+    managed by the NATO Eurofighter and Tornado Management Agency,
+    which also acts as the prime customer.
+

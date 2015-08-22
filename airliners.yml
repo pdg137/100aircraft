@@ -204,3 +204,28 @@
     Embraer. Entering production in 2002, the aircraft series has been
     a commercial success. The aircraft is used by airlines around
     the world.
+
+- !ruby/object:Aircraft
+  name: Bombardier CRJ200
+  picture: Lufthansa.crj-100.d-aclp.arp.png
+  direction: left
+  length_ft: 88
+  pitch: -4
+  yaw: -20
+  description: >
+    The Bombardier CRJ100 and CRJ200 are a family of regional
+    airliners manufactured by Bombardier, and based on the Canadair
+    Challenger business jet.
+
+- !ruby/object:Aircraft
+  name: Bombardier Dash 8
+  picture: Flybe_dash8_g-jecl_takeoff_manchester_arp.png
+  direction: left
+  length_ft: 108
+  pitch: 10
+  yaw: 15
+  description: >
+    The Bombardier Dash 8 or Q-Series, is a series of twin-engined,
+    medium range, turboprop airliners. Introduced by de Havilland
+    Canada (DHC) in 1984, they are now produced by Bombardier
+    Aerospace. Over 1,000 Dash 8s of all models have been built.
