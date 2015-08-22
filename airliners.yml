@@ -244,3 +244,16 @@
     DC-10, it features a stretched fuselage, increased wingspan with
     winglets, refined airfoils on the wing and smaller tailplane, new
     engines and increased use of composite materials.
+
+- !ruby/object:Aircraft
+  name: ATR 72
+  picture: ATR_ATR-72-202,_LOT_-_Polish_Airlines_-_Polskie_Linie_Lotnicze_(EuroLOT)_AN2020929.png
+  direction: left
+  length_ft: 89
+  pitch: 2
+  yaw: 4
+  description: >
+    The ATR 72 is a twin-engine turboprop short-haul regional airliner
+    built by the French-Italian aircraft manufacturer ATR. A stretched
+    variant of the ATR 42, the aircraft seats up to 74 passengers in a
+    single-class configuration, and is operated by a two-pilot crew.
